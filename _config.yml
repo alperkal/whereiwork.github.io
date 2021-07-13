@@ -1,6 +1,7 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
+email: f/xgeraadb
 paginate:            5
 
 # Build settings
@@ -10,9 +11,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Where I work/today"
+description:	       "A blog of places I'd worked"
+author:              "Alper Kalaycioglu"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
