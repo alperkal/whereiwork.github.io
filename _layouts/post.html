@@ -17,6 +17,10 @@ layout: default
   <article>
     {{ content }}
   </article>
+
+  {% if page.location %}
+    {% include post-location.html %}
+  {% endif %}
   {% if site.hide_post_share != true %}
     {% include post-share.html %}
   {% endif %}

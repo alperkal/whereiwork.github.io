@@ -9,7 +9,7 @@ github:
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-maps]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Where I work/today"
@@ -19,3 +19,7 @@ author:              "Alper Kalaycioglu"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+maps:
+  google:
+    api_key: AIzaSyA19aX4EWy5qw_uSpdhg24Ch6-byo4U6pQ
