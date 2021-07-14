@@ -23,3 +23,5 @@ author:              "Alper Kalaycioglu"
 maps:
   google:
     api_key: AIzaSyA19aX4EWy5qw_uSpdhg24Ch6-byo4U6pQ
+    marker_cluster:
+      enabled: false
