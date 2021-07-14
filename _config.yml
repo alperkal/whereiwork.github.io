@@ -3,7 +3,8 @@
 # jekyll-paginate configuration
 email: f/xgeraadb
 paginate:            5
-
+github:
+  url: https://wherei.work
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
