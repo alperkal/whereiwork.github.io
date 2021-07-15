@@ -4,4 +4,4 @@ title: Map
 permalink: /map
 ---
 
-{% google_map src="_posts/" %}
+<!-- {% google_map src="_posts/" %} -->
