@@ -24,7 +24,7 @@ title: \"$title\"
 author: \"Alper Kalaycioglu\"
 categories: whereiwork
 tags: [documentation]
-image: $shortFileName.jpg
+image: $name.jpg
 location:
   latitude: $latitude
   longitude: $longitude
