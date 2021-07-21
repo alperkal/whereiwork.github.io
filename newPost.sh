@@ -6,7 +6,7 @@ title=$2
 
 sips -Z 1000 $filename
 
-date=`exiftool -s -s -s -d "%Y-%m-%e" -DateTimeOriginal -S $filename`
+date=`exiftool -s -s -s -d "%Y-%m-%d" -DateTimeOriginal -S $filename`
 
 shortFileName=${filename##*/}
 name="${shortFileName%.jpg}"
