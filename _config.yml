@@ -1,5 +1,6 @@
 # Site Build Settings
 
+
 # jekyll-paginate configuration
 email: f/xgeraadb
 paginate:            5
@@ -19,6 +20,9 @@ author:              "Alper Kalaycioglu"
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+google_analytics: 
+google_tag_manager: GTM-MKVC6LF
 
 maps:
   google:
