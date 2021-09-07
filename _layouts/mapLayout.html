@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  {% include head-map.html %}
+  <body>
+    <script async
+    src="https://maps.googleapis.com/maps/api/js?key={{ site.maps.google.api_key }}&callback=initialize">
+  </script>
+    {% if site.google_tag_manager %}
+    <body id="page-top" class="index">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {% endif %}
+
+    <div class="container">
+      {% include header.html %}
+      <div class="content-wrapper">
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

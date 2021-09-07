@@ -29,3 +29,5 @@ location:
   latitude: $latitude
   longitude: $longitude
 ---" > _posts/$date-$name.md
+
+./processMap.sh

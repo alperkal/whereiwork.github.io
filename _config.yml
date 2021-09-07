@@ -26,6 +26,6 @@ google_tag_manager: GTM-MKVC6LF
 
 maps:
   google:
-    api_key: XXXX
+    api_key: AIzaSyA19aX4EWy5qw_uSpdhg24Ch6-byo4U6pQ
     marker_cluster:
       enabled: false

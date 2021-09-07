@@ -1,0 +1,12 @@
+.page-content {
+  max-width: 1200px;
+    display: block;
+    margin: 10px auto 10px;
+    padding: 0px 10px 10px;
+  }
+  
+  #centered-content {
+    width:100%;
+    display: flex;
+    justify-content: center;
+  }
