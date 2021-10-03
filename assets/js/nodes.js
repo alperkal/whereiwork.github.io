@@ -28,5 +28,6 @@ var locations = [
 ['Marmaris - Turkey', 36.8381944444444, 28.2500444444444, '/assets/img/marmaris.jpg', '/marmaris'],
 ['Erste Campus - Vienna', 48.1874055555556, 16.3811694444444, '/assets/img/erstecampus2.jpg', '/erstecampus2'],
 ['Vienna - Random Cafe', 48.1930166666667, 16.3455555555556, '/assets/img/vienna15-random-cafe.jpg', '/vienna15-random-cafe'],
+['Vienna - Starbucks', 48.2033527777778, 16.3702472222222, '/assets/img/vienna17-starbucks.jpg', '/vienna17-starbucks'],
 ['Vienna - Piano course', 48.196575, 16.3942694444444, '/assets/img/vienna16-piano.jpg', '/vienna16-piano'],
 ];
