@@ -30,5 +30,6 @@ var locations = [
 ['Vienna - Random Cafe', 48.1930166666667, 16.3455555555556, '/assets/img/vienna15-random-cafe.jpg', '/vienna15-random-cafe'],
 ['Vienna - Starbucks', 48.2033527777778, 16.3702472222222, '/assets/img/vienna17-starbucks.jpg', '/vienna17-starbucks'],
 ['Vienna - Piano course', 48.196575, 16.3942694444444, '/assets/img/vienna16-piano.jpg', '/vienna16-piano'],
+['Random Cafe - Vienna', 48.1906527777778, 16.2708694444444, '/assets/img/vienna18-randomcafe.jpg', '/vienna18-randomcafe'],
 ['Random Park - Vienna', 48.190025, 16.2715972222222, '/assets/img/vienna19-randompark.jpg', '/vienna19-randompark'],
 ];
