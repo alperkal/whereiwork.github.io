@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vienna - German Course"
+title: "German Course - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
