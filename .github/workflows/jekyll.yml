@@ -1,0 +1,32 @@
+name: Github Pages Jekyll Build
+on:
+  workflow_dispatch:
+    # Inputs the workflow accepts.
+    inputs:
+      filename:
+        description: 'Image Name'
+        default: 'assets/img/name.jpg'
+        required: true
+      title:
+        description: 'Post Title'
+        default: 'Random - Vienna'
+        required: true
+  
+jobs:
+  jekyll:
+    runs-on: self-hosted
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/cache@v2
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+    - name: gitcheck.sh
+      run: ./gitcheck.sh ${{ github.event.inputs.filename }} "${{ github.event.inputs.title }}"
+    - uses: helaili/jekyll-action@2.3.1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        target_branch: 'gh-pages'
+        

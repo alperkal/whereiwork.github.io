@@ -4,7 +4,7 @@ filename=$1
 title=$2
 #  Resize image
 
-sips -Z 1000 $filename
+convert -resize x1000 $filename $filename
 
 date=`exiftool -s -s -s -d "%Y-%m-%d" -DateTimeOriginal -S $filename`
 
