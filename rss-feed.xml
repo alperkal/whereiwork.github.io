@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Where I work/today</title>
+		<description>A blog of places I'd worked</description>
+		<link>https://wherei.work</link>
+		<atom:link href="https://wherei.work/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Random - ss Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+				<link>/21723545395_ae610f9834_o</link>
+				<guid isPermaLink="true">/21723545395_ae610f9834_o</guid>
+			</item>
+		
+			<item>
+				<title>Doctors waiting room - Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+				<link>/vienna23-doctor</link>
+				<guid isPermaLink="true">/vienna23-doctor</guid>
+			</item>
+		
+			<item>
+				<title>Train to Bratislava</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+				<link>/Bratislava-train</link>
+				<guid isPermaLink="true">/Bratislava-train</guid>
+			</item>
+		
+			<item>
+				<title>German Course - Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+				<link>/vienna22-germanCourse</link>
+				<guid isPermaLink="true">/vienna22-germanCourse</guid>
+			</item>
+		
+			<item>
+				<title>Random Park - Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sun, 21 Nov 2021 00:00:00 +0000</pubDate>
+				<link>/vienna21-random-park</link>
+				<guid isPermaLink="true">/vienna21-random-park</guid>
+			</item>
+		
+			<item>
+				<title>Vapiano - Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+				<link>/vienna20-vapiano</link>
+				<guid isPermaLink="true">/vienna20-vapiano</guid>
+			</item>
+		
+			<item>
+				<title>Random Park - Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+				<link>/vienna19-randompark</link>
+				<guid isPermaLink="true">/vienna19-randompark</guid>
+			</item>
+		
+			<item>
+				<title>Random Cafe - Vienna</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+				<link>/vienna18-randomcafe</link>
+				<guid isPermaLink="true">/vienna18-randomcafe</guid>
+			</item>
+		
+			<item>
+				<title>Vienna - Piano course</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+				<link>/vienna16-piano</link>
+				<guid isPermaLink="true">/vienna16-piano</guid>
+			</item>
+		
+			<item>
+				<title>Vienna - Starbucks</title>
+				
+					<dc:creator>Alper Kalaycioglu</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+				<link>/vienna17-starbucks</link>
+				<guid isPermaLink="true">/vienna17-starbucks</guid>
+			</item>
+		
+	</channel>
+</rss>
