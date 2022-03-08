@@ -37,5 +37,4 @@ var locations = [
 ['German Course - Vienna', 48.2012111111111, 16.3700138888889, '/assets/img/vienna22-germanCourse.jpg', '/vienna22-germanCourse'],
 ['Train to Bratislava', 48.2446666666667, 16.7166861111111, '/assets/img/Bratislava-train.jpg', '/Bratislava-train'],
 ['Doctors waiting room - Vienna', 48.2096555555556, 16.3665388888889, '/assets/img/vienna23-doctor.jpg', '/vienna23-doctor'],
-['Random - ss Vienna', , , '/assets/img/21723545395_ae610f9834_o.jpg', '/21723545395_ae610f9834_o'],
 ];
