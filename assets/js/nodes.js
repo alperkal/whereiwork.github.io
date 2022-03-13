@@ -4,6 +4,7 @@ var locations = [
 ['Prater - Vienna', 48.211850, 16.402437, '/assets/img/prater.jpg', '/prater'],
 ['1516 - Vienna', 48.203463, 16.373287, '/assets/img/1516.jpg', '/1516'],
 ['Josefstadt - Vienna', 48.214353, 16.343863, '/assets/img/vienna1.jpg', '/vienna1'],
+['New Post', 48.2143527777778, 16.3438638888889, '/assets/img/vienna123.jpg', '/vienna123'],
 ['Vienna - Random Starbucks', 48.2007722222222, 16.3584083333333, '/assets/img/vienna14-random-starbucks.jpg', '/vienna14-random-starbucks'],
 ['Rainy Park - Vienna', 48.186000, 16.368600, '/assets/img/vienna5-rain.jpg', '/vienna5-rain'],
 ['Weingut Nigl - Vienna', 48.446308, 15.565762, '/assets/img/weingut-nigl.jpg', '/wiengut-nigl'],
@@ -34,7 +35,8 @@ var locations = [
 ['Random Park - Vienna', 48.190025, 16.2715972222222, '/assets/img/vienna19-randompark.jpg', '/vienna19-randompark'],
 ['Vapiano - Vienna', 48.2034444444444, 16.3715138888889, '/assets/img/vienna20-vapiano.jpg', '/vienna20-vapiano'],
 ['Random Park - Vienna', 48.1917083333333, 16.3652638888889, '/assets/img/vienna21-random-park.jpg', '/vienna21-random-park'],
-['Vienna - German Course', 48.2012111111111, 16.3700138888889, '/assets/img/vienna22-germanCourse.jpg', '/vienna22-germanCourse'],
+['German Course - Vienna', 48.2012111111111, 16.3700138888889, '/assets/img/vienna22-germanCourse.jpg', '/vienna22-germanCourse'],
 ['Train to Bratislava', 48.2446666666667, 16.7166861111111, '/assets/img/Bratislava-train.jpg', '/Bratislava-train'],
 ['Doctors waiting room - Vienna', 48.2096555555556, 16.3665388888889, '/assets/img/vienna23-doctor.jpg', '/vienna23-doctor'],
+['Random Park - Vienna', 48.1877777777778, 16.3554638888889, '/assets/img/vienna24-randompark.jpg', '/vienna24-randompark'],
 ];
