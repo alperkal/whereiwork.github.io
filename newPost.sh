@@ -9,7 +9,13 @@ convert -resize x1000 $filename $filename
 date=`exiftool -s -s -s -d "%Y-%m-%d" -DateTimeOriginal -S $filename`
 
 shortFileName=${filename##*/}
+fileExtension="${filename##*.}"
+fileNameWithoutExtension="${filename%.*}"
 name="${shortFileName%.jpg}"
+
+ampFilename=${fileNameWithoutExtension}_amp.${fileExtension}
+echo "ampFilename: $ampFilename"
+convert -resize x600 $filename $ampFilename
 
 echo "$date-$name"
 
@@ -25,9 +31,24 @@ author: \"Alper Kalaycioglu\"
 categories: whereiwork
 tags: [documentation]
 image: $name.jpg
+amp: true
 location:
   latitude: $latitude
   longitude: $longitude
 ---" > _posts/$date-$name.md
+
+
+echo "---
+layout: amp
+title: \"$title\"
+author: \"Alper Kalaycioglu\"
+categories: whereiwork
+tags: [documentation]
+image: $ampFilename
+originalUrl: $fileNameWithoutExtension
+location:
+  latitude: $latitude
+  longitude: $longitude
+---" > _amp/$date-$name.md
 
 ./processMap.sh
