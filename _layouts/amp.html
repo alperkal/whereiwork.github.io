@@ -22,54 +22,26 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar">
-          <amp-img width="480" height="480" layout="responsive" src="{{ site.avatar }}"></amp-img>
-          </a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
     <div id="main" role="main" class="container">
       <article class="post">
-        <h1>{{ page.title }}</h1>
-      
-        {% if page.image %}
-        <div class="featured-image">
-          <amp-img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+        <div class="wrapper-masthead">
+          <div class="container">
+            <header class="masthead clearfix">
+              {% if page.image %}
+              <a href="{{ page.url }}" class="post-img">
+              <amp-img width="50" height="67" layout="responsive" src="{{ site.baseurl }}/assets/img/{{ page.image }}"></amp-img>
+              </a>
+              {% endif %}
+              <div>
+                <h1>{{ page.title }}</h1>
+              </div>
+              <div class="date">
+                Written on {{ page.date | date: "%B %e, %Y" }}
+              </div>
+            </header>
+          </div>
         </div>
-        {% endif %}
-      
-        <div class="entry">
-          {{ content }}
-        </div>
-      
-        <div class="date">
-          Written on {{ page.date | date: "%B %e, %Y" }}
-        </div>
-      
       </article>
-      
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
     </div>
   </body>
 </html>
