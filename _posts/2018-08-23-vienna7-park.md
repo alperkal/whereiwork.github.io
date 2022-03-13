@@ -5,6 +5,7 @@ author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
 image: vienna7-park.jpg
+amp: true
 location:
   latitude: 48.189463
   longitude: 16.354637

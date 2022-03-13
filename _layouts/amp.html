@@ -28,7 +28,7 @@
           <div class="container">
             <header class="masthead clearfix">
               {% if page.image %}
-              <a href="{{ page.url }}" class="post-img">
+              <a href="{{ site.url}}{{site.baseurl}}{{ page.url | replace: '/amp', '' }}" class="post-img">
               <amp-img width="50" height="67" layout="responsive" src="{{ site.baseurl }}/assets/img/{{ page.image }}"></amp-img>
               </a>
               {% endif %}

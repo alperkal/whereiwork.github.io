@@ -5,6 +5,7 @@ author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
 image: vienna4-piano.jpg
+amp: true
 location:
   latitude: 48.197052
   longitude: 16.394719
