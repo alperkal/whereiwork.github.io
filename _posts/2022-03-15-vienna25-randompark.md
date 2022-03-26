@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Random Park - Vienna"
+title: "Another Random Park - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
