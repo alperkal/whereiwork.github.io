@@ -6,9 +6,6 @@
       {{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
-  {% if page.title == "Home" %}
-  <link rel="amphtml" href="{{site.url}}{{site.baseurl}}/stories/main/">
-  {% endif %}
   {% if page.amp %}
   <link rel="amphtml" href="{{site.url}}{{site.baseurl}}/amp{{ page.url }}">
   {% endif %}
