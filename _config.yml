@@ -36,3 +36,5 @@ collections:
   amp:
     output: true
     permalink: /amp/:title/
+  stories:
+    output: true

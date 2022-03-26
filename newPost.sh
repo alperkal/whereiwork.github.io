@@ -13,10 +13,6 @@ fileExtension="${filename##*.}"
 fileNameWithoutExtension="${filename%.*}"
 name="${shortFileName%.jpg}"
 
-ampFilename=${fileNameWithoutExtension}_amp.${fileExtension}
-echo "ampFilename: $ampFilename"
-convert -resize x600 $filename $ampFilename
-
 echo "$date-$name"
 
 # GPS Coordinates:
@@ -44,10 +40,12 @@ title: \"$title\"
 author: \"Alper Kalaycioglu\"
 categories: whereiwork
 tags: [documentation]
-image: $ampImageName
+image: $name.jpg
 location:
   latitude: $latitude
   longitude: $longitude
 ---" > _amp/$date-$name.md
 
 ./processMap.sh
+./bash-responsive-images.sh
+./createStories.sh

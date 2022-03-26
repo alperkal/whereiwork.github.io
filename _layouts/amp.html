@@ -1,47 +1,124 @@
 <!doctype html>
-<html amp lang="en">
-  <head>
-    {% include meta.html %}
-    
-    <link rel="canonical" href="{{ site.url}}{{site.baseurl}}{{ page.url | replace: '/amp', '' }}">
-    
+<html ⚡ lang="en" i-amphtml-layout i-amphtml-no-boilerplate transformed="self;v=1">
+
+<head>
+    <title>{{page.title}}</title>
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+
+    {% include amp-runtime-style.html %}
+
+    <script async src="https://cdn.ampproject.org/v0.mjs" type="module" crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0.js" crossorigin="anonymous"></script>
+    <script async custom-element="amp-live-list" src="https://cdn.ampproject.org/v0/amp-live-list-0.1.mjs" type="module"
+        crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0/amp-live-list-0.1.js" crossorigin="anonymous"
+        custom-element="amp-live-list"></script>
+    <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.mjs"
+        type="module" crossorigin="anonymous"></script>
+    <script async nomodule src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" crossorigin="anonymous"
+        custom-element="amp-social-share"></script>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <link rel="canonical" href="{{ site.url}}{{site.baseurl}}{{ page.url | replace: '/amp', '' }}">
 
-    {% capture styles %}
-    {% include amp_style.scss %}
-    {% endcapture %}
-    <style amp-custom> 
-      {{ styles | scssify }}
+    <script type="application/ld+json">{
+          "@context": "{{ site.github.url }}",
+          "@type": "BlogPosting",
+          "url": "{{ site.github.url }}",
+          "image": "{{ site.baseurl }}/assets/img/{{ page.image }}",  
+          "articleBody": "{{ page.title }}",
+          "datePublished": "{{ page.date }}",
+          "author": {
+            "@type": "Person",
+            "sameAs": "https://github.com/kul3r4",
+            "name": "{{ site.author }}"
+          },
+          "image": {
+            "@type": "ImageObject",
+            "url": "{{ site.baseurl }}/assets/img/{{ page.image }}"
+          },
+          "headline": "An AMP Live Blog",
+          "description": "A Live Blog implementation with AMP"
+        }</script>
+    <style amp-custom>
+        :root {
+            --color-primary: #005af0;
+            --color-secondary: #00dcc0;
+            --color-text-light: #fff;
+            --color-text-dark: #000;
+            --space-1: .5rem;
+            --space-2: 1rem
+        }
+        .heading {
+            padding: var(--space-2)
+        }
+
+        .heading>#summary {
+            font-weight: 500
+        }
+
+        .date,
+        .heading>small {
+            color: var(--color-primary)
+        }
+
+        .date {
+            font-size: 12px
+        }
+
+        .blog {
+            padding: 0;
+            min-width: 70%;
+            background: var(--color-text-light)
+        }
+
+        .blog p {
+            margin: 0 var(--space-2)
+        }
+
+        .blog .text {
+            color: var(--color-text-dark);
+            padding-top: 0
+        }
+
+        .blog .title {
+            color: var(--color-text-light);
+            position: relative;
+            top: -48px;
+            margin: 0 var(--space-2);
+            height: 0;
+            padding-bottom: var(--space-2)
+        }
     </style>
+</head>
 
-<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div id="main" role="main" class="container">
-      <article class="post">
-        <div class="wrapper-masthead">
-          <div class="container">
-            <header class="masthead clearfix">
-              {% if page.image %}
-              <a href="{{ site.url}}{{site.baseurl}}{{ page.url | replace: '/amp', '' }}" class="post-img">
-              <amp-img width="50" height="67" layout="responsive" src="{{ site.baseurl }}/assets/img/{{ page.image }}"></amp-img>
-              </a>
-              {% endif %}
-              <div>
-                <h1>{{ page.title }}</h1>
-              </div>
-              <div class="date">
-                Written on {{ page.date | date: "%B %e, %Y" }}
-              </div>
-            </header>
-          </div>
+<body>
+    <section class="heading">
+        <h1>{{ page.title }}</h1>
+        <p id="summary"></p>
+    </section>
+        <div items>
+            <div id="1" data-sort-time="1648120474542">
+                <div class="blog">
+                    <div class="outer" style="padding-top: 10px;padding-left: 80px;padding-right: 80px;">
+                        <amp-img src="{{ site.baseurl }}/assets/img/optimised/640/{{ page.image }}"
+                        srcset="
+                            { site.baseurl }}/assets/img/optimised/320/{{ page.image }} 320w,
+                            { site.baseurl }}/assets/img/optimised/640/{{ page.image }} 640w,
+                            { site.baseurl }}/assets/img/optimised/960/{{ page.image }} 960w,
+                            { site.baseurl }}/assets/img/optimised/1280/{{ page.image }} 1280w,
+                            { site.baseurl }}/assets/img/optimised/1600/{{ page.image }} 1600w
+                        " 
+                        layout="responsive"
+                        width="3"
+  						height="4">
+                        </amp-img>
+                    </div>
+                    <p><small class="date">{{ page.date | date: "%B %e, %Y" }}</small></p>
+                    <p><small>by {{ site.author }}</small></p>
+                </div>
+            </div>
         </div>
-      </article>
-    </div>
-  </body>
+</body>
 </html>
