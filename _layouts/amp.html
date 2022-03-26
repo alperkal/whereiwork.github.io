@@ -20,7 +20,6 @@
     <script async nomodule src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" crossorigin="anonymous"
         custom-element="amp-social-share"></script>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-    <link rel="canonical" href="{{ site.url}}{{site.baseurl}}{{ page.url | replace: '/amp', '' }}">
 
     <script type="application/ld+json">{
           "@context": "{{ site.github.url }}",
@@ -98,7 +97,6 @@
         <h1>{{ page.title }}</h1>
         <p id="summary"></p>
     </section>
-        <div items>
             <div id="1" data-sort-time="1648120474542">
                 <div class="blog">
                     <div class="outer" style="padding-top: 10px;padding-left: 80px;padding-right: 80px;">
@@ -118,7 +116,6 @@
                     <p><small class="date">{{ page.date | date: "%B %e, %Y" }}</small></p>
                     <p><small>by {{ site.author }}</small></p>
                 </div>
-            </div>
         </div>
 </body>
 </html>
