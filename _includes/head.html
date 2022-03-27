@@ -26,4 +26,7 @@
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
+  {% if page.layout == "home" %}
+  <meta property="twitter:image" content="{{ site.github.url }} /{{ site.logo }}" />
+  {% endif %}
 </head>
