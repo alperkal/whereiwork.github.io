@@ -30,8 +30,7 @@
   <meta property="twitter:image" content="{{site.url}}{{site.baseurl}}/{{ site.logo }}" />
   {% endif %}
   {% if page.location.latitude %}
-  <meta property="twitter:label2" content="Visit on Google Maps" />
-  <meta property="twitter:data2" content="http://maps.google.com/maps?q={{ page.location.latitude }},{{ page.location.longitude }}&ll={{ page.location.latitude }},{{ page.location.longitude }}&z=17" />
-
+  <meta property="twitter:label1" content="Visit on Google Maps"/>
+  <meta property="twitter:data1" content="http://maps.google.com/maps?q={{ page.location.latitude }},{{ page.location.longitude }}&ll={{ page.location.latitude }},{{ page.location.longitude }}&z=17"/>
   {% endif %}
 </head>
