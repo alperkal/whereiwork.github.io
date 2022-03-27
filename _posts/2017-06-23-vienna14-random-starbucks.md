@@ -4,7 +4,7 @@ title: "Vienna - Random Starbucks"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna14-random-starbucks.jpg
+image: assets/img/vienna14-random-starbucks.jpg
 amp: true
 location:
   latitude: 48.2007722222222

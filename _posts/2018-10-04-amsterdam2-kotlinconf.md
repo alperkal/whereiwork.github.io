@@ -4,7 +4,7 @@ title: "Amsterdam - Kotlin Conf"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: amsterdam2-kotlinconf.jpg
+image: assets/img/amsterdam2-kotlinconf.jpg
 amp: true
 location:
   latitude: 52.3756611111111

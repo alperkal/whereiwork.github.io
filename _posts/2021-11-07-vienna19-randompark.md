@@ -4,7 +4,7 @@ title: "Random Park - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna19-randompark.jpg
+image: assets/img/vienna19-randompark.jpg
 amp: true
 location:
   latitude: 48.190025

@@ -4,7 +4,7 @@ title: "Vienna - Judenplatz"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: Vienna9-Judenplatz.jpg
+image: assets/img/Vienna9-Judenplatz.jpg
 amp: true
 location:
   latitude: 48.2116194444444

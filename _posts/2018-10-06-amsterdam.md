@@ -4,7 +4,7 @@ title: "Het Nieuwe Meer - Amsterdam"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: amsterdam.jpg
+image: assets/img/amsterdam.jpg
 amp: true
 location:
   latitude: 52.326275

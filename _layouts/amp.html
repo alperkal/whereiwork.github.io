@@ -25,7 +25,7 @@
           "@context": "{{ site.github.url }}",
           "@type": "BlogPosting",
           "url": "{{ site.github.url }}",
-          "image": "{{ site.baseurl }}/assets/img/{{ page.image }}",  
+          "image": "{{ site.baseurl }}/{{ page.image }}",  
           "articleBody": "{{ page.title }}",
           "datePublished": "{{ page.date }}",
           "author": {
@@ -35,7 +35,7 @@
           },
           "image": {
             "@type": "ImageObject",
-            "url": "{{ site.baseurl }}/assets/img/{{ page.image }}"
+            "url": "{{ site.baseurl }}/{{ page.image }}"
           },
           "headline": "An AMP Live Blog",
           "description": "A Live Blog implementation with AMP"

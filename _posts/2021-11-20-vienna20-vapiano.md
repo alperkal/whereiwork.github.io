@@ -4,7 +4,7 @@ title: "Vapiano - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna20-vapiano.jpg
+image: assets/img/vienna20-vapiano.jpg
 amp: true
 location:
   latitude: 48.2034444444444

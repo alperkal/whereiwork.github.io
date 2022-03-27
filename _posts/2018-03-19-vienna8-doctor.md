@@ -4,7 +4,7 @@ title: "Vienna - Doctors Office"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna8-doctor.jpg
+image: assets/img/vienna8-doctor.jpg
 amp: true
 location:
   latitude: 48.19251473949408

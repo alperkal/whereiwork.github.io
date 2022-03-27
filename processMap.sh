@@ -11,7 +11,7 @@ for post in _posts/*.md; do
      latitute=$(cat $post|grep "  latitude: "|tail -1 |cut -d' ' -f4)
      longitude=$(cat $post|grep "  longitude: "|tail -1 |cut -d' ' -f4)
      image=$(cat $post|grep "image: "|tail -1 |cut -d' ' -f2)
-     echo "['$title', $latitute, $longitude, '/assets/img/$image', '/$link']," >> assets/js/nodes.js
+     echo "['$title', $latitute, $longitude, '$image', '/$link']," >> assets/js/nodes.js
 done
 
 echo "];" >> assets/js/nodes.js
@@ -34,12 +34,12 @@ for post in `ls _posts/*.md | sort -g -r`; do
      if [[ $COUNTER -eq 1 ]]; then
           echo "cover:" >> _stories/$STORY_NAME.md
           echo "  title: <h1>$title</h1>" >> _stories/$STORY_NAME.md
-          echo "  background: /assets/img/$image" >> _stories/$STORY_NAME.md
+          echo "  background: $image" >> _stories/$STORY_NAME.md
           echo "pages: " >> _stories/$STORY_NAME.md
      else
           echo "- layout: thirds" >> _stories/$STORY_NAME.md
           echo "  top: <h1>$title</h1>" >> _stories/$STORY_NAME.md
-          echo "  background: /assets/img/$image" >> _stories/$STORY_NAME.md
+          echo "  background: $image" >> _stories/$STORY_NAME.md
      fi
 
      if [[ $COUNTER -eq $MAX_STORY_SIZE ]]; then

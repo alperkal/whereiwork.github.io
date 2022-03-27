@@ -2,7 +2,7 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Random Park - Vienna</h1>
+  title: <h1>Another Random Park - Vienna</h1>
   background: /assets/img/optimised/640/vienna25-randompark.jpg
 pages: 
 - layout: thirds

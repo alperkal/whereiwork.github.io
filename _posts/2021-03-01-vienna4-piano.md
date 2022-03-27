@@ -4,7 +4,7 @@ title: "Piano course - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna4-piano.jpg
+image: assets/img/vienna4-piano.jpg
 amp: true
 location:
   latitude: 48.197052

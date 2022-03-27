@@ -4,7 +4,7 @@ title: "Doctors waiting room - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna23-doctor.jpg
+image: assets/img/vienna23-doctor.jpg
 amp: true
 location:
   latitude: 48.2096555555556

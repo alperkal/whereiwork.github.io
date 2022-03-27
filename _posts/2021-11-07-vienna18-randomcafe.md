@@ -4,7 +4,7 @@ title: "Random Cafe - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna18-randomcafe.jpg
+image: assets/img/vienna18-randomcafe.jpg
 amp: true
 location:
   latitude: 48.1906527777778

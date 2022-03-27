@@ -4,7 +4,7 @@ title: "Rainy Park - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: vienna5-rain.jpg
+image: assets/img/vienna5-rain.jpg
 amp: true
 location:
   latitude: 48.186000
