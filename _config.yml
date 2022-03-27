@@ -38,3 +38,25 @@ collections:
     permalink: /amp/:title/
   stories:
     output: true
+
+#seo
+author:
+  name: Alper Kalaycioglu
+  twitter: alperkal
+  image: profile.png
+twitter:
+  username: alperkal
+  card: summary_large_image
+social:
+  name: Alper Kalaycioglu
+  links:
+    - https://twitter.com/alperkal
+    - https://www.facebook.com/alperkal
+    - https://www.linkedin.com/in/alperkal
+    - https://github.com/alperkal
+
+
+
+facebook: 'alperkal'
+github: 'alperkal'
+linkedin: 'alperkal'
