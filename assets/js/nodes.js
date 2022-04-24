@@ -42,5 +42,6 @@ var locations = [
 ['Another Random Park - Vienna', 48.189525, 16.3544527777778, 'assets/img/vienna25-randompark.jpg', '/vienna25-randompark'],
 ['Random park - Vienna', 48.1922777777778, 16.3468277777778, 'assets/img/vienna26-randompark.jpg', '/vienna26-randompark'],
 ['Purkersdorf - Train Station', 48.2075194444444, 16.1892277777778, 'assets/img/Purkersdorf-train-station.jpg', '/Purkersdorf-train-station'],
+['Vienna - Westbahnhof', 48.1953861111111, 16.3329027777778, 'assets/img/Vienna28-westbahnhof.jpg', '/Vienna28-westbahnhof'],
 ['Vienna - Mariahilfer Str', 48.194825, 16.3367694444444, 'assets/img/vienna27-Maria_Hilfer.jpg', '/vienna27-Maria_Hilfer'],
 ];
