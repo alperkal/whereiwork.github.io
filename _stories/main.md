@@ -6,6 +6,9 @@ cover:
   background: /assets/img/optimised/640/vienna27-Maria_Hilfer.jpg
 pages: 
 - layout: thirds
+  top: <h1>Purkersdorf - Train Station</h1>
+  background: /assets/img/optimised/640/Purkersdorf-train-station.jpg
+- layout: thirds
   top: <h1>Random park - Vienna</h1>
   background: /assets/img/optimised/640/vienna26-randompark.jpg
 - layout: thirds
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Random Park - Vienna</h1>
   background: /assets/img/optimised/640/vienna19-randompark.jpg
-- layout: thirds
-  top: <h1>Random Cafe - Vienna</h1>
-  background: /assets/img/optimised/640/vienna18-randomcafe.jpg
 ---
