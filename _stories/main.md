@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Random park - Vienna</h1>
-  background: /assets/img/optimised/640/vienna26-randompark.jpg
+  title: <h1>Vienna - Mariahilfer Str</h1>
+  background: /assets/img/optimised/640/vienna27-Maria_Hilfer.jpg
 pages: 
+- layout: thirds
+  top: <h1>Random park - Vienna</h1>
+  background: /assets/img/optimised/640/vienna26-randompark.jpg
 - layout: thirds
   top: <h1>Another Random Park - Vienna</h1>
   background: /assets/img/optimised/640/vienna25-randompark.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Random Cafe - Vienna</h1>
   background: /assets/img/optimised/640/vienna18-randomcafe.jpg
-- layout: thirds
-  top: <h1>Vienna - Piano course</h1>
-  background: /assets/img/optimised/640/vienna16-piano.jpg
 ---
