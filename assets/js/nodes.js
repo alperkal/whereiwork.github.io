@@ -45,4 +45,5 @@ var locations = [
 ['Vienna - Westbahnhof', 48.1953861111111, 16.3329027777778, 'assets/img/Vienna28-westbahnhof.jpg', '/Vienna28-westbahnhof'],
 ['Vienna - Mariahilfer Str', 48.194825, 16.3367694444444, 'assets/img/vienna27-Maria_Hilfer.jpg', '/vienna27-Maria_Hilfer'],
 ['Vienna - Erste Campus', 48.187725, 16.3810111111111, 'assets/img/vienna29-campus.jpg', '/vienna29-campus'],
+['Vienna - Random park', 48.1923972222222, 16.3468305555556, 'assets/img/vienna30-park.jpg', '/vienna30-park'],
 ];

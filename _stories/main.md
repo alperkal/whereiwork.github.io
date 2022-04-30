@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Erste Campus</h1>
-  background: /assets/img/optimised/640/vienna29-campus.jpg
+  title: <h1>Vienna - Random park</h1>
+  background: /assets/img/optimised/640/vienna30-park.jpg
 pages: 
+- layout: thirds
+  top: <h1>Vienna - Erste Campus</h1>
+  background: /assets/img/optimised/640/vienna29-campus.jpg
 - layout: thirds
   top: <h1>Vienna - Mariahilfer Str</h1>
   background: /assets/img/optimised/640/vienna27-Maria_Hilfer.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>German Course - Vienna</h1>
   background: /assets/img/optimised/640/vienna22-germanCourse.jpg
-- layout: thirds
-  top: <h1>Random Park - Vienna</h1>
-  background: /assets/img/optimised/640/vienna21-random-park.jpg
 ---
