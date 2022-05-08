@@ -47,4 +47,5 @@ var locations = [
 ['Vienna - Erste Campus', 48.187725, 16.3810111111111, 'assets/img/vienna29-campus.jpg', '/vienna29-campus'],
 ['Vienna - Random park', 48.1923972222222, 16.3468305555556, 'assets/img/vienna30-park.jpg', '/vienna30-park'],
 ['Vienna - Random Park', 48.1878611111111, 16.3553638888889, 'assets/img/vienna31-park.jpg', '/vienna31-park'],
+['Vienna - Random Park', 48.1922861111111, 16.3470555555556, 'assets/img/vienna32-park.jpg', '/vienna32-park'],
 ];
