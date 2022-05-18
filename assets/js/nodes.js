@@ -49,4 +49,5 @@ var locations = [
 ['Vienna - Random Park', 48.1878611111111, 16.3553638888889, 'assets/img/vienna31-park.jpg', '/vienna31-park'],
 ['Vienna - Random Park', 48.1922861111111, 16.3470555555556, 'assets/img/vienna32-park.jpg', '/vienna32-park'],
 ['Vienna - Random park', 48.192375, 16.3470027777778, 'assets/img/vienna33-park.jpg', '/vienna33-park'],
+['Vienna Random Park', 48.1873722222222, 16.3174027777778, 'assets/img/vienna34-park.jpg', '/vienna34-park'],
 ];
