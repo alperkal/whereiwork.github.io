@@ -52,4 +52,5 @@ var locations = [
 ['Vienna Random Park', 48.1873722222222, 16.3174027777778, 'assets/img/vienna34-park.jpg', '/vienna34-park'],
 ['Vienna - Random Park', 48.1923555555556, 16.3469333333333, 'assets/img/vienna35-park.jpg', '/vienna35-park'],
 ['Vienna - Before Piano Concert', 48.1992333333333, 16.3802527777778, 'assets/img/vienna36-concert.jpg', '/vienna36-concert'],
+['Vienna - Robinson Park', 48.2566305555556, 16.3642888888889, 'assets/img/vienna37-park.jpg', '/vienna37-park'],
 ];
