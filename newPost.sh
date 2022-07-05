@@ -19,7 +19,6 @@ echo "$date-$name"
 
 longitude=`exiftool -s -s -s -gpslongitude $filename -n`
 latitude=`exiftool -s -s -s -gpslatitude $filename -n`
-ampImageName=`basename $ampFilename`
 echo "---
 layout: post
 title: \"$title\"
