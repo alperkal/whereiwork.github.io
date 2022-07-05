@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Football Camp</h1>
-  background: /assets/img/optimised/640/vienna38-footballcamp.jpg
+  title: <h1>Vienna International Center</h1>
+  background: /assets/img/optimised/640/vienna39-vic.jpg
 pages: 
+- layout: thirds
+  top: <h1>Vienna - Football Camp</h1>
+  background: /assets/img/optimised/640/vienna38-footballcamp.jpg
 - layout: thirds
   top: <h1>Vienna - Robinson Park</h1>
   background: /assets/img/optimised/640/vienna37-park.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Erste Campus</h1>
   background: /assets/img/optimised/640/vienna29-campus.jpg
-- layout: thirds
-  top: <h1>Vienna - Mariahilfer Str</h1>
-  background: /assets/img/optimised/640/vienna27-Maria_Hilfer.jpg
 ---
