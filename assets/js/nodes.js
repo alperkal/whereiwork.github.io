@@ -56,4 +56,5 @@ var locations = [
 ['Vienna - Football Camp', 48.2231194444444, 16.4296222222222, 'assets/img/vienna38-footballcamp.jpg', '/vienna38-footballcamp'],
 ['Vienna International Center', 48.2315555555556, 16.4198138888889, 'assets/img/vienna39-vic.jpg', '/vienna39-vic'],
 ['Vienna - Football Camp', 48.2232361111111, 16.4292527777778, 'assets/img/vienna40-footballcamp.jpg', '/vienna40-footballcamp'],
+['Vienna - Football Camp', 48.2244833333333, 16.4288111111111, 'assets/img/vienna41-footballcamp.jpg', '/vienna41-footballcamp'],
 ];
