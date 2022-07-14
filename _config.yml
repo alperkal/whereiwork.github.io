@@ -25,6 +25,7 @@ sass:
 
 google_analytics: 
 google_tag_manager: GTM-MKVC6LF
+posthogKey: phc_KHlaePlLzUrxklpRNfVC06nk8hq0cPGAIK5tzs3SFki
 
 maps:
   google:
