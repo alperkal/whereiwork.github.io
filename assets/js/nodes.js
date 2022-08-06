@@ -60,4 +60,5 @@ var locations = [
 ['Vienna - Starbucks', 48.2059138888889, 16.3855222222222, 'assets/img/vienna42-starbucks.jpg', '/vienna42-starbucks'],
 ['Vienna - Prater', 48.2040888888889, 16.4063972222222, 'assets/img/vienna43-prater.jpg', '/vienna43-prater'],
 ['Vienna - Mexikoplatz', 48.2239527777778, 16.4048527777778, 'assets/img/vienna44-mexikoplatz.jpg', '/vienna44-mexikoplatz'],
+['Kemer - Turkey', 36.7077555555556, 30.5723277777778, 'assets/img/Kemer-Hotel.jpg', '/Kemer-Hotel'],
 ];
