@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Ankara - Turkey</h1>
-  background: /assets/img/optimised/640/Ankara-Kizilay.jpg
+  title: <h1>Vienna - Augarten</h1>
+  background: /assets/img/optimised/640/vienna45-augarten.jpg
 pages: 
+- layout: thirds
+  top: <h1>Ankara - Turkey</h1>
+  background: /assets/img/optimised/640/Ankara-Kizilay.jpg
 - layout: thirds
   top: <h1>Kemer - Turkey</h1>
   background: /assets/img/optimised/640/Kemer-Hotel.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Robinson Park</h1>
   background: /assets/img/optimised/640/vienna37-park.jpg
-- layout: thirds
-  top: <h1>Vienna - Before Piano Concert</h1>
-  background: /assets/img/optimised/640/vienna36-concert.jpg
 ---
