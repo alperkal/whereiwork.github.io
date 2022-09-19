@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Augarten</h1>
-  background: /assets/img/optimised/640/vienna45-augarten.jpg
+  title: <h1>Vienna - Floorball course</h1>
+  background: /assets/img/optimised/640/vienna46-floorball.jpg
 pages: 
+- layout: thirds
+  top: <h1>Vienna - Augarten</h1>
+  background: /assets/img/optimised/640/vienna45-augarten.jpg
 - layout: thirds
   top: <h1>Ankara - Turkey</h1>
   background: /assets/img/optimised/640/Ankara-Kizilay.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Football Camp</h1>
   background: /assets/img/optimised/640/vienna38-footballcamp.jpg
-- layout: thirds
-  top: <h1>Vienna - Robinson Park</h1>
-  background: /assets/img/optimised/640/vienna37-park.jpg
 ---
