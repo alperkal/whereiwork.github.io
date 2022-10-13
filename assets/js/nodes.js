@@ -64,4 +64,5 @@ var locations = [
 ['Ankara - Turkey', 39.9224555555556, 32.8601027777778, 'assets/img/Ankara-Kizilay.jpg', '/Ankara-Kizilay'],
 ['Vienna - Augarten', 48.2247694444444, 16.3798138888889, 'assets/img/vienna45-augarten.jpg', '/vienna45-augarten'],
 ['Vienna - Floorball course', 48.1893, 16.3429111111111, 'assets/img/vienna46-floorball.jpg', '/vienna46-floorball'],
+['Vienna - Random Starbucks', 48.1986361111111, 16.3499027777778, 'assets/img/vienna47-starbucks.jpg', '/vienna47-starbucks'],
 ];
