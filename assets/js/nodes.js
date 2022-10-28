@@ -1,5 +1,4 @@
 var locations = [	
-['Vienna - Random Building', , , 'assets/img/vienna48-floorball.JPG.jpg', '/loorball'],
 ['Buyukada - Istanbul', 40.874375, 29.128208, 'assets/img/buyukada.jpg', '/buyukada'],
 ['Bagdat Caddesi - Istanbul', 40.958088, 29.085200, 'assets/img/istanbul.jpg', '/istanbul'],
 ['Prater - Vienna', 48.211850, 16.402437, 'assets/img/prater.jpg', '/prater'],
