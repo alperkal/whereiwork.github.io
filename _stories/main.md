@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Random Starbucks</h1>
-  background: /assets/img/optimised/640/vienna47-starbucks.jpg
+  title: <h1>Vienna - Random Building</h1>
+  background: /assets/img/optimised/640/vienna48-floorball.jpg
 pages: 
+- layout: thirds
+  top: <h1>Vienna - Random Starbucks</h1>
+  background: /assets/img/optimised/640/vienna47-starbucks.jpg
 - layout: thirds
   top: <h1>Vienna - Floorball course</h1>
   background: /assets/img/optimised/640/vienna46-floorball.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Football Camp</h1>
   background: /assets/img/optimised/640/vienna40-footballcamp.jpg
-- layout: thirds
-  top: <h1>Vienna International Center</h1>
-  background: /assets/img/optimised/640/vienna39-vic.jpg
 ---
