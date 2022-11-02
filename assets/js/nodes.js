@@ -66,4 +66,5 @@ var locations = [
 ['Vienna - Floorball course', 48.1893, 16.3429111111111, 'assets/img/vienna46-floorball.jpg', '/vienna46-floorball'],
 ['Vienna - Random Starbucks', 48.1986361111111, 16.3499027777778, 'assets/img/vienna47-starbucks.jpg', '/vienna47-starbucks'],
 ['Vienna - Random Building', 48.1892944444444, 16.3427027777778, 'assets/img/vienna48-floorball.jpg', '/vienna48-floorball'],
+['Vienna - Random park', 48.1879972222222, 16.3555027777778, 'assets/img/vienna49-park.jpg', '/vienna49-park'],
 ];
