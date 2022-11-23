@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Auhof Center</h1>
-  background: /assets/img/optimised/640/vienna51-Auhof-center.jpg
+  title: <h1>Vienna - Train to Airport</h1>
+  background: /assets/img/optimised/640/vienna52-train.jpg
 pages: 
+- layout: thirds
+  top: <h1>Vienna - Auhof Center</h1>
+  background: /assets/img/optimised/640/vienna51-Auhof-center.jpg
 - layout: thirds
   top: <h1>Vienna - Erste Campus</h1>
   background: /assets/img/optimised/640/vienna50-campus.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Mexikoplatz</h1>
   background: /assets/img/optimised/640/vienna44-mexikoplatz.jpg
-- layout: thirds
-  top: <h1>Vienna - Prater</h1>
-  background: /assets/img/optimised/640/vienna43-prater.jpg
 ---
