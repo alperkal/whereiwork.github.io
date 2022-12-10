@@ -70,4 +70,5 @@ var locations = [
 ['Vienna - Erste Campus', 48.1875611111111, 16.3810722222222, 'assets/img/vienna50-campus.jpg', '/vienna50-campus'],
 ['Vienna - Auhof Center', 48.2080222222222, 16.2165555555556, 'assets/img/vienna51-Auhof-center.jpg', '/vienna51-Auhof-center'],
 ['Vienna - Train to Airport', 48.1570277777778, 16.4246361111111, 'assets/img/vienna52-train.jpg', '/vienna52-train'],
+['Stockholm - Random Starbucks', 59.3324277777778, 18.0682138888889, 'assets/img/stockholm-starbucks.jpg', '/stockholm-starbucks'],
 ];
