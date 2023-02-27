@@ -12,11 +12,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/alperkal'}
-- {icon: 'facebook', link:   'https://www.facebook.com/alperkal'}
 - {icon: 'instagram', link:  'https://instagram.com/alperkal'}
+- {icon: 'linkedin', link:  'https://www.linkedin.com/in/alperkal'}
 - {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
 pagination:
