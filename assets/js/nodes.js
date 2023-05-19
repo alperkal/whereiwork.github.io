@@ -73,4 +73,5 @@ var locations = [
 ['Stockholm - Random Starbucks', 59.3324277777778, 18.0682138888889, 'assets/img/stockholm-starbucks.jpg', '/stockholm-starbucks'],
 ['Vienna - Random Cafe', 48.2190138888889, 16.3326777777778, 'assets/img/vienna53-cafe.jpg', '/vienna53-cafe'],
 ['On the way to Budapest', 47.7438055555556, 17.4465777777778, 'assets/img/budapest_train.jpg', '/budapest_train'],
+['Craftconf 2023', 47.5435305555556, 19.0978972222222, 'assets/img/craftconf2023-1.jpg', '/craftconf2023-1'],
 ];

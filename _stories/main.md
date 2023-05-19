@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>On the way to Budapest</h1>
-  background: /assets/img/optimised/640/budapest_train.jpg
+  title: <h1>Craftconf 2023</h1>
+  background: /assets/img/optimised/640/craftconf2023-1.jpg
 pages: 
+- layout: thirds
+  top: <h1>On the way to Budapest</h1>
+  background: /assets/img/optimised/640/budapest_train.jpg
 - layout: thirds
   top: <h1>Vienna - Random Cafe</h1>
   background: /assets/img/optimised/640/vienna53-cafe.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Floorball course</h1>
   background: /assets/img/optimised/640/vienna46-floorball.jpg
-- layout: thirds
-  top: <h1>Vienna - Augarten</h1>
-  background: /assets/img/optimised/640/vienna45-augarten.jpg
 ---
