@@ -18,7 +18,7 @@ pages:
   top: <h1>Vienna - Train to Airport</h1>
   background: /assets/img/optimised/640/vienna52-train.jpg
 - layout: thirds
-  top: <h1>Auhof Center - Vienna</h1>
+  top: <h1>Vienna - Auhof Center</h1>
   background: /assets/img/optimised/640/vienna51-Auhof-center.jpg
 - layout: thirds
   top: <h1>Vienna - Erste Campus</h1>

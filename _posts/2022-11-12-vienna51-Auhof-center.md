@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Auhof Center - Vienna"
+title: "Vienna - Auhof Center"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
