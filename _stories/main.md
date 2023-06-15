@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Auhof Center - Vienna</h1>
-  background: /assets/img/optimised/640/vienna54-Auhof-center.jpg
+  title: <h1>Vienna - Airport</h1>
+  background: /assets/img/optimised/640/vienna55-airport.jpg
 pages: 
+- layout: thirds
+  top: <h1>Auhof Center - Vienna</h1>
+  background: /assets/img/optimised/640/vienna54-Auhof-center.jpg
 - layout: thirds
   top: <h1>Craftconf 2023</h1>
   background: /assets/img/optimised/640/craftconf2023-1.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Random Building</h1>
   background: /assets/img/optimised/640/vienna48-floorball.jpg
-- layout: thirds
-  top: <h1>Vienna - Random Starbucks</h1>
-  background: /assets/img/optimised/640/vienna47-starbucks.jpg
 ---

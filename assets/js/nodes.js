@@ -75,4 +75,5 @@ var locations = [
 ['On the way to Budapest', 47.7438055555556, 17.4465777777778, 'assets/img/budapest_train.jpg', '/budapest_train'],
 ['Craftconf 2023', 47.5435305555556, 19.0978972222222, 'assets/img/craftconf2023-1.jpg', '/craftconf2023-1'],
 ['Auhof Center - Vienna', 48.2080083333333, 16.2166361111111, 'assets/img/vienna54-Auhof-center.jpg', '/vienna54-Auhof-center'],
+['Vienna - Airport', 48.11995, 16.5626027777778, 'assets/img/vienna55-airport.jpg', '/vienna55-airport'],
 ];
