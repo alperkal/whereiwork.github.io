@@ -79,4 +79,5 @@ var locations = [
 ['Vienna - Random Starbucks', 48.2031777777778, 16.3700972222222, 'assets/img/vienna56-starbucks.jpg', '/vienna56-starbucks'],
 ['Erste Campus - Vienna', 48.1863611111111, 16.3810277777778, 'assets/img/vienna57-campus.jpg', '/vienna57-campus'],
 ['Donnersbachwald', 47.3848027777778, 14.1164916666667, 'assets/img/kinderhotel2.jpg', '/kinderhotel2'],
+['Erste Campus - Vienna', 48.1866055555556, 16.3808638888889, 'assets/img/vienna58-campus.jpg', '/vienna58-campus'],
 ];

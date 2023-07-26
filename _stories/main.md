@@ -2,9 +2,12 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Donnersbachwald</h1>
-  background: /assets/img/optimised/640/kinderhotel2.jpg
+  title: <h1>Erste Campus - Vienna</h1>
+  background: /assets/img/optimised/640/vienna58-campus.jpg
 pages: 
+- layout: thirds
+  top: <h1>Donnersbachwald</h1>
+  background: /assets/img/optimised/640/kinderhotel2.jpg
 - layout: thirds
   top: <h1>Erste Campus - Vienna</h1>
   background: /assets/img/optimised/640/vienna57-campus.jpg
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Vienna - Train to Airport</h1>
   background: /assets/img/optimised/640/vienna52-train.jpg
-- layout: thirds
-  top: <h1>Vienna - Auhof Center</h1>
-  background: /assets/img/optimised/640/vienna51-Auhof-center.jpg
 ---
