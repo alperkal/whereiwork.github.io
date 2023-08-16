@@ -81,4 +81,5 @@ var locations = [
 ['Donnersbachwald', 47.3848027777778, 14.1164916666667, 'assets/img/kinderhotel2.jpg', '/kinderhotel2'],
 ['Erste Campus - Vienna', 48.1866055555556, 16.3808638888889, 'assets/img/vienna58-campus.jpg', '/vienna58-campus'],
 ['Datca - Turkey', 36.7307472222222, 27.6901305555556, 'assets/img/datca01.jpg', '/datca01'],
+['Bodrum - Turkey', 37.0326833333333, 27.4364944444444, 'assets/img/Bodrum-2023.jpg', '/Bodrum-2023'],
 ];
