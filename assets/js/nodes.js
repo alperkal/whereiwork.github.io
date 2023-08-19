@@ -1,4 +1,5 @@
 var locations = [	
+['Erste Campus - Vienna', , , 'assets/img/vienna59-campus.jpg', '/ampus'],
 ['Buyukada - Istanbul', 40.874375, 29.128208, 'assets/img/buyukada.jpg', '/buyukada'],
 ['Bagdat Caddesi - Istanbul', 40.958088, 29.085200, 'assets/img/istanbul.jpg', '/istanbul'],
 ['Prater - Vienna', 48.211850, 16.402437, 'assets/img/prater.jpg', '/prater'],
