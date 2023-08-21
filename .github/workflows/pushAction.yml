@@ -1,6 +1,6 @@
 name: New Post Flow
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push]
+on: [push, workflow_dispatch]
 jobs:
   new-post-create:
     runs-on: self-hosted
