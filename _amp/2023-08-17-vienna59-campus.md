@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: amp
 title: "Erste Campus - Vienna"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna59-campus.jpg
-amp: true
+image: vienna59-campus.jpg
 location:
-  latitude: 
-  longitude: 
+  latitude: 48.1867777777778
+  longitude: 16.3808083333333
 ---

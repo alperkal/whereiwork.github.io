@@ -1,5 +1,4 @@
 var locations = [	
-['Erste Campus - Vienna', , , 'assets/img/vienna59-campus.jpg', '/ampus'],
 ['Buyukada - Istanbul', 40.874375, 29.128208, 'assets/img/buyukada.jpg', '/buyukada'],
 ['Bagdat Caddesi - Istanbul', 40.958088, 29.085200, 'assets/img/istanbul.jpg', '/istanbul'],
 ['Prater - Vienna', 48.211850, 16.402437, 'assets/img/prater.jpg', '/prater'],
@@ -83,4 +82,5 @@ var locations = [
 ['Erste Campus - Vienna', 48.1866055555556, 16.3808638888889, 'assets/img/vienna58-campus.jpg', '/vienna58-campus'],
 ['Datca - Turkey', 36.7307472222222, 27.6901305555556, 'assets/img/datca01.jpg', '/datca01'],
 ['Bodrum - Turkey', 37.0326833333333, 27.4364944444444, 'assets/img/Bodrum-2023.jpg', '/Bodrum-2023'],
+['Erste Campus - Vienna', 48.1867777777778, 16.3808083333333, 'assets/img/vienna59-campus.jpg', '/vienna59-campus'],
 ];
