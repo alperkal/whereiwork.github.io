@@ -1,4 +1,5 @@
 var locations = [	
+['Alper Testing Post', , , 'assets/img/Alper_Testing_Post-1CrMeKbP36oDJhgdIsh-L086NGCwwaqMZ.JPG.jpg', '/ing_Post-1CrMeKbP36oDJhgdIsh-L086NGCwwaqMZ'],
 ['Buyukada - Istanbul', 40.874375, 29.128208, 'assets/img/buyukada.jpg', '/buyukada'],
 ['Bagdat Caddesi - Istanbul', 40.958088, 29.085200, 'assets/img/istanbul.jpg', '/istanbul'],
 ['Prater - Vienna', 48.211850, 16.402437, 'assets/img/prater.jpg', '/prater'],
