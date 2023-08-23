@@ -1,11 +1,21 @@
 name: New Post Flow
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push, workflow_dispatch]
+on: 
+  push:
+    paths:
+      - 'assets/img/*'
+  workflow_dispatch:
 jobs:
   new-post-create:
     runs-on: self-hosted
+    if: ! contains(github.event.head_commit.message, 'jekyl')
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: ./newPost.sh assets/img/vienna59-campus.jpg "Erste Campus - Vienna"
+      - run: ./newPost.sh assets/img/vienna59-campus.jpg "${{ github.event.head_commit.message }}"
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "jekyl update for ${{ github.event.head_commit.message }}"
