@@ -16,7 +16,7 @@ jobs:
       - id: changedFiles
         uses: jitterbit/get-changed-files@v1
         with:
-          format: json
+          format: 'json'
       - run: |
           readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
           for added_file in ${added_files[@]}; do
