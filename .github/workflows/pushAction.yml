@@ -20,8 +20,8 @@ jobs:
       - run: |
           readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
           for added_file in ${added_files[@]}; do
-            echo "running for ${changed_file} with message ${{ github.event.head_commit.message }}"
-            ./newPost.sh ${changed_file} "${{ github.event.head_commit.message }}"
+            echo "Do something with this ${added_file}."
+            ./newPost.sh ${added_file} "${{ github.event.head_commit.message }}"
           done
       - name: Commit & Push changes
         uses: actions-js/push@master
