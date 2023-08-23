@@ -19,7 +19,7 @@ jobs:
           format: 'json'
       - run: |
           readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.changedFiles.outputs.added }}')"
-          echo "Do something with this ${added_files[0]}."
+          echo "Do something with this ${added_files[0]} with title ${{ github.event.head_commit.message }}"
           ./newPost.sh "${added_files[0]}" "${{ github.event.head_commit.message }}"
       - name: Commit & Push changes
         uses: actions-js/push@master
@@ -27,3 +27,13 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: "master"
           message: "jekyl update for ${{ github.event.head_commit.message }}"
+      - name: pushover-actions
+        uses: umahmood/pushover-actions@main
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+        with:
+          status: ${{ job.status }}
+          title: 'Repo. Activity Notification'
+          message: '${{ github.event.head_commit.message }} ${{ job.status }}'
+
