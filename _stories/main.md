@@ -6,33 +6,33 @@ cover:
   background: /assets/img/optimised/640/vienna59-campus.jpg
 pages: 
 - layout: thirds
-  top: <h1>Bodrum - Turkey</h1>
-  background: /assets/img/optimised/640/Bodrum-2023.jpg
+  top: <h1>Alper testing post</h1>
+  background: /assets/img/optimised/640/.jpg
 - layout: thirds
-  top: <h1>Datca - Turkey</h1>
-  background: /assets/img/optimised/640/datca01.jpg
+  top: <h1>Buyukada - Istanbul</h1>
+  background: /assets/img/optimised/640/buyukada.jpg
 - layout: thirds
-  top: <h1>Erste Campus - Vienna</h1>
-  background: /assets/img/optimised/640/vienna58-campus.jpg
+  top: <h1>Bagdat Caddesi - Istanbul</h1>
+  background: /assets/img/optimised/640/istanbul.jpg
 - layout: thirds
-  top: <h1>Donnersbachwald</h1>
-  background: /assets/img/optimised/640/kinderhotel2.jpg
+  top: <h1>Prater - Vienna</h1>
+  background: /assets/img/optimised/640/prater.jpg
 - layout: thirds
-  top: <h1>Erste Campus - Vienna</h1>
-  background: /assets/img/optimised/640/vienna57-campus.jpg
+  top: <h1>1516 - Vienna</h1>
+  background: /assets/img/optimised/640/1516.jpg
+- layout: thirds
+  top: <h1>Josefstadt - Vienna</h1>
+  background: /assets/img/optimised/640/vienna1.jpg
+- layout: thirds
+  top: <h1>New Post</h1>
+  background: /assets/img/optimised/640/vienna123.jpg
 - layout: thirds
   top: <h1>Vienna - Random Starbucks</h1>
-  background: /assets/img/optimised/640/vienna56-starbucks.jpg
+  background: /assets/img/optimised/640/vienna14-random-starbucks.jpg
 - layout: thirds
-  top: <h1>Vienna - Airport</h1>
-  background: /assets/img/optimised/640/vienna55-airport.jpg
+  top: <h1>Rainy Park - Vienna</h1>
+  background: /assets/img/optimised/640/vienna5-rain.jpg
 - layout: thirds
-  top: <h1>Auhof Center - Vienna</h1>
-  background: /assets/img/optimised/640/vienna54-Auhof-center.jpg
-- layout: thirds
-  top: <h1>Craftconf 2023</h1>
-  background: /assets/img/optimised/640/craftconf2023-1.jpg
-- layout: thirds
-  top: <h1>On the way to Budapest</h1>
-  background: /assets/img/optimised/640/budapest_train.jpg
+  top: <h1>Weingut Nigl - Vienna</h1>
+  background: /assets/img/optimised/640/weingut-nigl.jpg
 ---
