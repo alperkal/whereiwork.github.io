@@ -25,4 +25,5 @@ jobs:
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: "master"
           message: "jekyl update for ${{ github.event.head_commit.message }}"
