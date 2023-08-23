@@ -27,13 +27,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: "master"
           message: "jekyl update for ${{ github.event.head_commit.message }}"
-      - name: pushover-actions
-        uses: umahmood/pushover-actions@main
-        env:
-          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
-          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+      - name: Push Build Status Notifications
+        uses: desiderati/github-action-pushover@v1
         with:
-          status: ${{ job.status }}
-          title: 'Repo. Activity Notification'
-          message: '${{ github.event.head_commit.message }} ${{ job.status }}'
-
+          job-status: '${{ github.event.head_commit.message }} ${{ job.status }}'
+          pushover-api-token: ${{ secrets.PUSHOVER_TOKEN }}
+          pushover-user-key: ${{ secrets.PUSHOVER_USER }}
