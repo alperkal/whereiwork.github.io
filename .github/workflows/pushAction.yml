@@ -18,7 +18,8 @@ jobs:
         with:
           format: json
       - run: |
-          for changed_file in ${{ steps.changedFiles.outputs.added }}; do
+          readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.files.outputs.added }}')"
+          for added_file in ${added_files[@]}; do
             echo "running for ${changed_file} with message ${{ github.event.head_commit.message }}"
             ./newPost.sh ${changed_file} "${{ github.event.head_commit.message }}"
           done
