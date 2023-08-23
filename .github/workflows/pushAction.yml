@@ -1,5 +1,5 @@
 name: New Post Flow
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: Where I Work New Post 🚀
 on: 
   push:
     paths:
