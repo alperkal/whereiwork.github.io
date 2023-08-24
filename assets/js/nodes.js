@@ -83,5 +83,4 @@ var locations = [
 ['Datca - Turkey', 36.7307472222222, 27.6901305555556, 'assets/img/datca01.jpg', '/datca01'],
 ['Bodrum - Turkey', 37.0326833333333, 27.4364944444444, 'assets/img/Bodrum-2023.jpg', '/Bodrum-2023'],
 ['Erste Campus - Vienna', 48.1867777777778, 16.3808083333333, 'assets/img/vienna59-campus.jpg', '/vienna59-campus'],
-['Alper Test Post', 48.1922777777778, 16.3483694444444, 'assets/img/Alper_Test_Post-19eto1Oxbfq_b2LNaCBNtnvIGJsp_6r20.jpg', '/Alper_Test_Post-19eto1Oxbfq_b2LNaCBNtnvIGJsp_6r20'],
 ];
