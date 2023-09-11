@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Hubert-Marischka-Park</h1>
-  background: /assets/img/optimised/640/Vienna_-_Hubert-Marischka-Park-1PORBNl-7oYWspr03tkboJWQiQo5Izygq.jpg
+  title: <h1>Vienna - Random Park</h1>
+  background: /assets/img/optimised/640/Vienna_-_Random_Park-1X1EbgKu7f55CFUunr8sDcUnEV6nNVwJ8.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
