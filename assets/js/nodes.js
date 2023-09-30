@@ -85,4 +85,5 @@ var locations = [
 ['Erste Campus - Vienna', 48.1867777777778, 16.3808083333333, 'assets/img/vienna59-campus.jpg', '/vienna59-campus'],
 ['Vienna - Hubert-Marischka-Park', 48.1923305555556, 16.3468944444444, 'assets/img/Vienna_-_Hubert-Marischka-Park-1PORBNl-7oYWspr03tkboJWQiQo5Izygq.jpg', '/Vienna_-_Hubert-Marischka-Park-1PORBNl-7oYWspr03tkboJWQiQo5Izygq'],
 ['Vienna - Random Park', 48.1938805555556, 16.3437777777778, 'assets/img/Vienna_-_Random_Park-1X1EbgKu7f55CFUunr8sDcUnEV6nNVwJ8.jpg', '/Vienna_-_Random_Park-1X1EbgKu7f55CFUunr8sDcUnEV6nNVwJ8'],
+['Vienna - Random Park', 48.1966527777778, 16.394875, 'assets/img/Vienna_-_Random_Park-11QS84ZJiTc5KqdteyWWzO5zL0f3aKMTg.jpg', '/Vienna_-_Random_Park-11QS84ZJiTc5KqdteyWWzO5zL0f3aKMTg'],
 ];
