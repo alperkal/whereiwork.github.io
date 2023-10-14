@@ -3,7 +3,7 @@ layout: ampstory
 title: whereI.work/today
 cover:
   title: <h1>Vienna - Random Park</h1>
-  background: /assets/img/optimised/640/Vienna_-_Random_Park-11QS84ZJiTc5KqdteyWWzO5zL0f3aKMTg.jpg
+  background: /assets/img/optimised/640/Vienna_-_Random_Park-1t60jewC6EIfDc9Fo04TWkJh49Gap6-dK.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
