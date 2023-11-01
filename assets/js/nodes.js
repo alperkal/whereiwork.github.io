@@ -88,4 +88,5 @@ var locations = [
 ['Vienna - Random Park', 48.1966527777778, 16.394875, 'assets/img/Vienna_-_Random_Park-11QS84ZJiTc5KqdteyWWzO5zL0f3aKMTg.jpg', '/Vienna_-_Random_Park-11QS84ZJiTc5KqdteyWWzO5zL0f3aKMTg'],
 ['Vienna - Random Park', 48.1978944444444, 16.3917222222222, 'assets/img/Vienna_-_Random_Park-1t60jewC6EIfDc9Fo04TWkJh49Gap6-dK.jpg', '/Vienna_-_Random_Park-1t60jewC6EIfDc9Fo04TWkJh49Gap6-dK'],
 ['Izmir - Airbnb', 38.432, 27.1411194444444, 'assets/img/Izmir_-_Airbnb-1c4-gTkz2aZImGN4nKrL4a0DXNX-LPIRX.jpg', '/Izmir_-_Airbnb-1c4-gTkz2aZImGN4nKrL4a0DXNX-LPIRX'],
+['Salihli-Turkey Random Cafe', 38.4828555555556, 28.1459472222222, 'assets/img/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp.jpg', '/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp'],
 ];

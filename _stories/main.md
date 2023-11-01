@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Izmir - Airbnb</h1>
-  background: /assets/img/optimised/640/Izmir_-_Airbnb-1c4-gTkz2aZImGN4nKrL4a0DXNX-LPIRX.jpg
+  title: <h1>Salihli-Turkey Random Cafe</h1>
+  background: /assets/img/optimised/640/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
