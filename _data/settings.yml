@@ -12,9 +12,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'fa-instagram', link:  'https://instagram.com/alperkal'}
-- {icon: 'fa-linkedin', link:  'https://www.linkedin.com/in/alperkal'}
-- {icon: 'fa-strava', link:  'https://www.strava.com/athletes/2824298'}
+- {icon: 'instagram', link:  'https://instagram.com/alperkal'}
+- {icon: 'linkedin', link:  'https://www.linkedin.com/in/alperkal'}
+- {icon: 'strava', link:  'https://www.strava.com/athletes/2824298'}
 - {icon: 'rss-square', link: 'feed.xml'}
 
 # Customize site text
