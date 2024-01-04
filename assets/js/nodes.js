@@ -90,4 +90,5 @@ var locations = [
 ['Izmir - Airbnb', 38.432, 27.1411194444444, 'assets/img/Izmir_-_Airbnb-1c4-gTkz2aZImGN4nKrL4a0DXNX-LPIRX.jpg', '/Izmir_-_Airbnb-1c4-gTkz2aZImGN4nKrL4a0DXNX-LPIRX'],
 ['Salihli-Turkey Random Cafe', 38.4828555555556, 28.1459472222222, 'assets/img/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp.jpg', '/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp'],
 ['Vienna - Random Starbucks', 48.2058861111111, 16.385525, 'assets/img/Vienna_-_Random_Starbucks-1JBFWvZO4X85XFObZVSxP7sCvGZGWM5LR.jpg', '/Vienna_-_Random_Starbucks-1JBFWvZO4X85XFObZVSxP7sCvGZGWM5LR'],
+['Donnersbachwald', 47.3844722222222, 14.1168972222222, 'assets/img/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj.jpg', '/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj'],
 ];

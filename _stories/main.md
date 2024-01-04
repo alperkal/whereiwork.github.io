@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Random Starbucks</h1>
-  background: /assets/img/optimised/640/Vienna_-_Random_Starbucks-1JBFWvZO4X85XFObZVSxP7sCvGZGWM5LR.jpg
+  title: <h1>Donnersbachwald</h1>
+  background: /assets/img/optimised/640/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
