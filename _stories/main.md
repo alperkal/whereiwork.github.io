@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Donnersbachwald</h1>
-  background: /assets/img/optimised/640/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj.jpg
+  title: <h1>Lakeside - Bratislava</h1>
+  background: /assets/img/optimised/640/Lakeside_-_Bratislava-1LJHCMwdsLX7AtGWMKg7kBSafAnouZlyw.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>

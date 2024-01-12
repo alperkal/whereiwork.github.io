@@ -91,4 +91,5 @@ var locations = [
 ['Salihli-Turkey Random Cafe', 38.4828555555556, 28.1459472222222, 'assets/img/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp.jpg', '/Salihli-Turkey_Random_Cafe-1TleKsXZzCfz7c8nolS27eU-xwYe-fgJp'],
 ['Vienna - Random Starbucks', 48.2058861111111, 16.385525, 'assets/img/Vienna_-_Random_Starbucks-1JBFWvZO4X85XFObZVSxP7sCvGZGWM5LR.jpg', '/Vienna_-_Random_Starbucks-1JBFWvZO4X85XFObZVSxP7sCvGZGWM5LR'],
 ['Donnersbachwald', 47.3844722222222, 14.1168972222222, 'assets/img/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj.jpg', '/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj'],
+['Lakeside - Bratislava', 48.1726027777778, 17.1430333333333, 'assets/img/Lakeside_-_Bratislava-1LJHCMwdsLX7AtGWMKg7kBSafAnouZlyw.jpg', '/Lakeside_-_Bratislava-1LJHCMwdsLX7AtGWMKg7kBSafAnouZlyw'],
 ];
