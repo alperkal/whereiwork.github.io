@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Lakeside - Bratislava</h1>
-  background: /assets/img/optimised/640/Lakeside_-_Bratislava-1LJHCMwdsLX7AtGWMKg7kBSafAnouZlyw.jpg
+  title: <h1>Vienna - Floorball Match</h1>
+  background: /assets/img/optimised/640/Vienna_-_Floorball_Match-1_5W00HmKpi7JAZqCykI-jQHYDP5Fw9L7.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
