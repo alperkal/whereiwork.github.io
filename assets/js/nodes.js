@@ -93,4 +93,5 @@ var locations = [
 ['Donnersbachwald', 47.3844722222222, 14.1168972222222, 'assets/img/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj.jpg', '/Donnersbachwald-1GrMKNpNnvJVenG5LAB6C4ADXkwevt4pj'],
 ['Lakeside - Bratislava', 48.1726027777778, 17.1430333333333, 'assets/img/Lakeside_-_Bratislava-1LJHCMwdsLX7AtGWMKg7kBSafAnouZlyw.jpg', '/Lakeside_-_Bratislava-1LJHCMwdsLX7AtGWMKg7kBSafAnouZlyw'],
 ['Vienna - Floorball Match', 48.1517861111111, 16.3143361111111, 'assets/img/Vienna_-_Floorball_Match-1_5W00HmKpi7JAZqCykI-jQHYDP5Fw9L7.jpg', '/Vienna_-_Floorball_Match-1_5W00HmKpi7JAZqCykI-jQHYDP5Fw9L7'],
+['Lakeside - Bratislava', 48.172725, 17.1428666666667, 'assets/img/Lakeside_-_Bratislava-1maNFYcolqHZ_daoJlGl6GydPXfQWLu82.jpg', '/Lakeside_-_Bratislava-1maNFYcolqHZ_daoJlGl6GydPXfQWLu82'],
 ];
