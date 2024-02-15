@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Lakeside - Bratislava</h1>
-  background: /assets/img/optimised/640/Lakeside_-_Bratislava-1maNFYcolqHZ_daoJlGl6GydPXfQWLu82.jpg
+  title: <h1>Vienna - Caritas</h1>
+  background: /assets/img/optimised/640/Vienna_-_Caritas-15VmnVYto8qDrPPMWmaCmbqBkUC7koQFj.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
