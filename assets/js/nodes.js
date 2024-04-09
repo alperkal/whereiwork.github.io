@@ -95,4 +95,5 @@ var locations = [
 ['Vienna - Floorball Match', 48.1517861111111, 16.3143361111111, 'assets/img/Vienna_-_Floorball_Match-1_5W00HmKpi7JAZqCykI-jQHYDP5Fw9L7.jpg', '/Vienna_-_Floorball_Match-1_5W00HmKpi7JAZqCykI-jQHYDP5Fw9L7'],
 ['Lakeside - Bratislava', 48.172725, 17.1428666666667, 'assets/img/Lakeside_-_Bratislava-1maNFYcolqHZ_daoJlGl6GydPXfQWLu82.jpg', '/Lakeside_-_Bratislava-1maNFYcolqHZ_daoJlGl6GydPXfQWLu82'],
 ['Vienna - Caritas', 48.1879111111111, 16.3794083333333, 'assets/img/Vienna_-_Caritas-15VmnVYto8qDrPPMWmaCmbqBkUC7koQFj.jpg', '/Vienna_-_Caritas-15VmnVYto8qDrPPMWmaCmbqBkUC7koQFj'],
+['Albertina - Vienna', 48.2042861111111, 16.3682055555556, 'assets/img/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0.jpg', '/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0'],
 ];

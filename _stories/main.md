@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Vienna - Caritas</h1>
-  background: /assets/img/optimised/640/Vienna_-_Caritas-15VmnVYto8qDrPPMWmaCmbqBkUC7koQFj.jpg
+  title: <h1>Albertina - Vienna</h1>
+  background: /assets/img/optimised/640/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
