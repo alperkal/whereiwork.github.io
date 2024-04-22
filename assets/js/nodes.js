@@ -1,6 +1,7 @@
 var locations = [	
 ['Buyukada - Istanbul', 40.874375, 29.128208, 'assets/img/buyukada.jpg', '/buyukada'],
 ['Bagdat Caddesi - Istanbul', 40.958088, 29.085200, 'assets/img/istanbul.jpg', '/istanbul'],
+['Random Cafe - Italy', 41.5087972222222, 15.3341416666667, 'assets/img/Random_Cafe_-_Italy-1fMvFPwsCCloZvAulJANZLGnfxpCpi_wO.jpg', '/Random_Cafe_-_Italy-1fMvFPwsCCloZvAulJANZLGnfxpCpi_wO'],
 ['Prater - Vienna', 48.211850, 16.402437, 'assets/img/prater.jpg', '/prater'],
 ['1516 - Vienna', 48.203463, 16.373287, 'assets/img/1516.jpg', '/1516'],
 ['Josefstadt - Vienna', 48.214353, 16.343863, 'assets/img/vienna1.jpg', '/vienna1'],

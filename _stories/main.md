@@ -12,6 +12,9 @@ pages:
   top: <h1>Bagdat Caddesi - Istanbul</h1>
   background: /assets/img/optimised/640/istanbul.jpg
 - layout: thirds
+  top: <h1>Random Cafe - Italy</h1>
+  background: /assets/img/optimised/640/Random_Cafe_-_Italy-1fMvFPwsCCloZvAulJANZLGnfxpCpi_wO.jpg
+- layout: thirds
   top: <h1>Prater - Vienna</h1>
   background: /assets/img/optimised/640/prater.jpg
 - layout: thirds
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Weingut Nigl - Vienna</h1>
   background: /assets/img/optimised/640/weingut-nigl.jpg
-- layout: thirds
-  top: <h1>Random Laundromat - Vienna</h1>
-  background: /assets/img/optimised/640/vienna3.jpg
 ---
