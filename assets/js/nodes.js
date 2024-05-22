@@ -98,4 +98,5 @@ var locations = [
 ['Vienna - Caritas', 48.1879111111111, 16.3794083333333, 'assets/img/Vienna_-_Caritas-15VmnVYto8qDrPPMWmaCmbqBkUC7koQFj.jpg', '/Vienna_-_Caritas-15VmnVYto8qDrPPMWmaCmbqBkUC7koQFj'],
 ['Albertina - Vienna', 48.2042861111111, 16.3682055555556, 'assets/img/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0.jpg', '/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0'],
 ['Erste Campus - Vienna', 48.1864611111111, 16.3810722222222, 'assets/img/Erste_Campus_-_Vienna-1td9dCNMoPNNZiw4iUJMroL_2wHz5IXPV.jpg', '/Erste_Campus_-_Vienna-1td9dCNMoPNNZiw4iUJMroL_2wHz5IXPV'],
+['Slovenska Sporitelna - Bratislava', 48.1674138888889, 17.1501, 'assets/img/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp.jpg', '/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp'],
 ];

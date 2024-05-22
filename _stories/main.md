@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Erste Campus - Vienna</h1>
-  background: /assets/img/optimised/640/Erste_Campus_-_Vienna-1td9dCNMoPNNZiw4iUJMroL_2wHz5IXPV.jpg
+  title: <h1>Slovenska Sporitelna - Bratislava</h1>
+  background: /assets/img/optimised/640/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
