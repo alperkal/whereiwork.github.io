@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Slovenska Sporitelna - Bratislava</h1>
-  background: /assets/img/optimised/640/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp.jpg
+  title: <h1>Random Park - Vienna</h1>
+  background: /assets/img/optimised/640/Random_Park_-_Vienna-1gp9QkGLH91Q5sjomwVcaMb1msi35ofh5.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>

@@ -99,4 +99,5 @@ var locations = [
 ['Albertina - Vienna', 48.2042861111111, 16.3682055555556, 'assets/img/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0.jpg', '/Albertina_-_Vienna-1G9Ub0lvGqlhCOQAxZtn_Vc_KN8gWNds0'],
 ['Erste Campus - Vienna', 48.1864611111111, 16.3810722222222, 'assets/img/Erste_Campus_-_Vienna-1td9dCNMoPNNZiw4iUJMroL_2wHz5IXPV.jpg', '/Erste_Campus_-_Vienna-1td9dCNMoPNNZiw4iUJMroL_2wHz5IXPV'],
 ['Slovenska Sporitelna - Bratislava', 48.1674138888889, 17.1501, 'assets/img/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp.jpg', '/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp'],
+['Random Park - Vienna', 48.1941972222222, 16.3419944444444, 'assets/img/Random_Park_-_Vienna-1gp9QkGLH91Q5sjomwVcaMb1msi35ofh5.jpg', '/Random_Park_-_Vienna-1gp9QkGLH91Q5sjomwVcaMb1msi35ofh5'],
 ];
