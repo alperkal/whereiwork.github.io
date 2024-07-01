@@ -101,4 +101,5 @@ var locations = [
 ['Slovenska Sporitelna - Bratislava', 48.1674138888889, 17.1501, 'assets/img/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp.jpg', '/Slovenska_Sporitelna_-_Bratislava-1LqVUQkrB0sD3deO-pBGWAmqsOZwvmRnp'],
 ['Random Park - Vienna', 48.1941972222222, 16.3419944444444, 'assets/img/Random_Park_-_Vienna-1gp9QkGLH91Q5sjomwVcaMb1msi35ofh5.jpg', '/Random_Park_-_Vienna-1gp9QkGLH91Q5sjomwVcaMb1msi35ofh5'],
 ['Česká spořitelna - Prague', 50.0435333333333, 14.4481805555556, 'assets/img/Česká_spořitelna_-_Prague-1QmXmx-0gBW91_Kdtnrf05L0kO1rkH_Yn.jpg', '/Česká_spořitelna_-_Prague-1QmXmx-0gBW91_Kdtnrf05L0kO1rkH_Yn'],
+['Random Park - Wien Weidlingau', 48.2101666666667, 16.2124472222222, 'assets/img/Random_Park_-_Wien_Weidlingau-1Uj9eXbpRmXqe6fT4SrnakU22m0om3GD6.jpg', '/Random_Park_-_Wien_Weidlingau-1Uj9eXbpRmXqe6fT4SrnakU22m0om3GD6'],
 ];
