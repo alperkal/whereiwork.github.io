@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Random Park - Wien Weidlingau</h1>
-  background: /assets/img/optimised/640/Random_Park_-_Wien_Weidlingau-1Uj9eXbpRmXqe6fT4SrnakU22m0om3GD6.jpg
+  title: <h1>Random Bar - Izmir</h1>
+  background: /assets/img/optimised/640/Random_Bar_-_Izmir-162sushIOicPjWZpXPfgOwvT5oAcRXvZu.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
