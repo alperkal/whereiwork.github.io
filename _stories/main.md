@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Random Bar - Izmir</h1>
-  background: /assets/img/optimised/640/Random_Bar_-_Izmir-162sushIOicPjWZpXPfgOwvT5oAcRXvZu.jpg
+  title: <h1>Barcelona - Random Cafe</h1>
+  background: /assets/img/optimised/640/Barcelona_-_Random_Cafe-10N4ksaGDyd1rBV1gek4zaHD9tkysPXmO.jpg
 pages: 
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
