@@ -105,4 +105,5 @@ var locations = [
 ['Random Park - Wien Weidlingau', 48.2101666666667, 16.2124472222222, 'assets/img/Random_Park_-_Wien_Weidlingau-1Uj9eXbpRmXqe6fT4SrnakU22m0om3GD6.jpg', '/Random_Park_-_Wien_Weidlingau-1Uj9eXbpRmXqe6fT4SrnakU22m0om3GD6'],
 ['Random Bar - Izmir', 38.4378027777778, 27.1426361111111, 'assets/img/Random_Bar_-_Izmir-162sushIOicPjWZpXPfgOwvT5oAcRXvZu.jpg', '/Random_Bar_-_Izmir-162sushIOicPjWZpXPfgOwvT5oAcRXvZu'],
 ['Barcelona - Random Cafe', 41.4013777777778, 2.19819166666667, 'assets/img/Barcelona_-_Random_Cafe-10N4ksaGDyd1rBV1gek4zaHD9tkysPXmO.jpg', '/Barcelona_-_Random_Cafe-10N4ksaGDyd1rBV1gek4zaHD9tkysPXmO'],
+['Lakeside - Bratislava', 48.1726305555556, 17.1428694444444, 'assets/img/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF.jpg', '/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF'],
 ];
