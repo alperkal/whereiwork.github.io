@@ -6,6 +6,9 @@ cover:
   background: /assets/img/optimised/640/Barcelona_-_Random_Cafe-10N4ksaGDyd1rBV1gek4zaHD9tkysPXmO.jpg
 pages: 
 - layout: thirds
+  top: <h1>Delete assets/img/Steinhaeusl-1oJNukVx8viSdjyiBAvcdOGidpKIvXskQ.jpg</h1>
+  background: /assets/img/optimised/640/.jpg
+- layout: thirds
   top: <h1>Buyukada - Istanbul</h1>
   background: /assets/img/optimised/640/buyukada.jpg
 - layout: thirds
@@ -32,7 +35,4 @@ pages:
 - layout: thirds
   top: <h1>Rainy Park - Vienna</h1>
   background: /assets/img/optimised/640/vienna5-rain.jpg
-- layout: thirds
-  top: <h1>Weingut Nigl - Vienna</h1>
-  background: /assets/img/optimised/640/weingut-nigl.jpg
 ---
