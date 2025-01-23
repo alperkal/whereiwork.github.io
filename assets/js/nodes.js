@@ -107,4 +107,5 @@ var locations = [
 ['Barcelona - Random Cafe', 41.4013777777778, 2.19819166666667, 'assets/img/Barcelona_-_Random_Cafe-10N4ksaGDyd1rBV1gek4zaHD9tkysPXmO.jpg', '/Barcelona_-_Random_Cafe-10N4ksaGDyd1rBV1gek4zaHD9tkysPXmO'],
 ['Steinhaeusl', 48.1563333333333, 15.9487222222222, 'assets/img/Steinhaeusl-1L5vvN81fs-lcjW71g4koQJr3Xf6xTiX-.jpg', '/Steinhaeusl-1L5vvN81fs-lcjW71g4koQJr3Xf6xTiX-'],
 ['Lakeside - Bratislava', 48.1726305555556, 17.1428694444444, 'assets/img/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF.jpg', '/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF'],
+['Prague - Random Hotel', 50.0797583333333, 14.4303305555556, 'assets/img/Prague_-_Random_Hotel-14guEvr-0BaCgNqXqfkodPEP7RYKmcqvM.jpg', '/Prague_-_Random_Hotel-14guEvr-0BaCgNqXqfkodPEP7RYKmcqvM'],
 ];

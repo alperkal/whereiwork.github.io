@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Lakeside - Bratislava</h1>
-  background: /assets/img/optimised/640/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF.jpg
+  title: <h1>Prague - Random Hotel</h1>
+  background: /assets/img/optimised/640/Prague_-_Random_Hotel-14guEvr-0BaCgNqXqfkodPEP7RYKmcqvM.jpg
 pages: 
 - layout: thirds
   top: <h1>Delete assets/img/Steinhaeusl-1oJNukVx8viSdjyiBAvcdOGidpKIvXskQ.jpg</h1>
