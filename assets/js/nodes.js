@@ -108,4 +108,5 @@ var locations = [
 ['Steinhaeusl', 48.1563333333333, 15.9487222222222, 'assets/img/Steinhaeusl-1L5vvN81fs-lcjW71g4koQJr3Xf6xTiX-.jpg', '/Steinhaeusl-1L5vvN81fs-lcjW71g4koQJr3Xf6xTiX-'],
 ['Lakeside - Bratislava', 48.1726305555556, 17.1428694444444, 'assets/img/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF.jpg', '/Lakeside_-_Bratislava-12QbyKzVDyeN9ylYoVjKjM4rVdl2e2DYF'],
 ['Prague - Random Hotel', 50.0797583333333, 14.4303305555556, 'assets/img/Prague_-_Random_Hotel-14guEvr-0BaCgNqXqfkodPEP7RYKmcqvM.jpg', '/Prague_-_Random_Hotel-14guEvr-0BaCgNqXqfkodPEP7RYKmcqvM'],
+['Queen Elizabeth II Center - London', 51.4999694444444, -0.128727777777778, 'assets/img/Queen_Elizabeth_II_Center_-_London-1ltbRb3buX9xnVfi4WiaYO-xvLXmolHV2.jpg', '/Queen_Elizabeth_II_Center_-_London-1ltbRb3buX9xnVfi4WiaYO-xvLXmolHV2'],
 ];

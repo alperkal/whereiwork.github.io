@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Prague - Random Hotel</h1>
-  background: /assets/img/optimised/640/Prague_-_Random_Hotel-14guEvr-0BaCgNqXqfkodPEP7RYKmcqvM.jpg
+  title: <h1>Queen Elizabeth II Center - London</h1>
+  background: /assets/img/optimised/640/Queen_Elizabeth_II_Center_-_London-1ltbRb3buX9xnVfi4WiaYO-xvLXmolHV2.jpg
 pages: 
 - layout: thirds
   top: <h1>Delete assets/img/Steinhaeusl-1oJNukVx8viSdjyiBAvcdOGidpKIvXskQ.jpg</h1>
