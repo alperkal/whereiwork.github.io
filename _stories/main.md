@@ -6,7 +6,7 @@ cover:
   background: /assets/img/optimised/640/Random_Hotel_-_Berlin-1eRWZdU1bgoGHeyd4RsgxikVkBEhy-Mjt.jpg
 pages: 
 - layout: thirds
-  top: <h1>Delete assets/img/Steinhaeusl-1oJNukVx8viSdjyiBAvcdOGidpKIvXskQ.jpg</h1>
+  top: <h1>Revert Random</h1>
   background: /assets/img/optimised/640/.jpg
 - layout: thirds
   top: <h1>Buyukada - Istanbul</h1>

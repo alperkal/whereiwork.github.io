@@ -1,5 +1,5 @@
 var locations = [	
-['Delete assets/img/Steinhaeusl-1oJNukVx8viSdjyiBAvcdOGidpKIvXskQ.jpg', , , 'assets/img/.jpg', '/'],
+['Revert Random', , , 'assets/img/.jpg', '/'],
 ['Buyukada - Istanbul', 40.874375, 29.128208, 'assets/img/buyukada.jpg', '/buyukada'],
 ['Bagdat Caddesi - Istanbul', 40.958088, 29.085200, 'assets/img/istanbul.jpg', '/istanbul'],
 ['Random Cafe - Italy', 41.5087972222222, 15.3341416666667, 'assets/img/Random_Cafe_-_Italy-1fMvFPwsCCloZvAulJANZLGnfxpCpi_wO.jpg', '/Random_Cafe_-_Italy-1fMvFPwsCCloZvAulJANZLGnfxpCpi_wO'],
