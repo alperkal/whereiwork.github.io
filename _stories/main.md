@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Random Hotel - Kos-Greece</h1>
-  background: /assets/img/optimised/640/Random_Hotel_-_Kos-Greece-1l9kfMuEK6-9oRRGG84_yX_17_R3wxOa4.jpg
+  title: <h1>Beach - Kos</h1>
+  background: /assets/img/optimised/640/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
