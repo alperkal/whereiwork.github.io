@@ -112,4 +112,5 @@ var locations = [
 ['Random Hotel - Berlin', 52.5291222222222, 13.4180777777778, 'assets/img/Random_Hotel_-_Berlin-1eRWZdU1bgoGHeyd4RsgxikVkBEhy-Mjt.jpg', '/Random_Hotel_-_Berlin-1eRWZdU1bgoGHeyd4RsgxikVkBEhy-Mjt'],
 ['Random Hotel - Kos-Greece', 36.8958944444444, 27.28505, 'assets/img/Random_Hotel_-_Kos-Greece-1l9kfMuEK6-9oRRGG84_yX_17_R3wxOa4.jpg', '/Random_Hotel_-_Kos-Greece-1l9kfMuEK6-9oRRGG84_yX_17_R3wxOa4'],
 ['Beach - Kos', 36.9015527777778, 27.2856111111111, 'assets/img/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX.jpg', '/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX'],
+['Train to Airport', 48.1206194444444, 16.5637472222222, 'assets/img/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk.jpg', '/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk'],
 ];

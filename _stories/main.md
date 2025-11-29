@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Beach - Kos</h1>
-  background: /assets/img/optimised/640/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX.jpg
+  title: <h1>Train to Airport</h1>
+  background: /assets/img/optimised/640/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
