@@ -113,4 +113,5 @@ var locations = [
 ['Random Hotel - Kos-Greece', 36.8958944444444, 27.28505, 'assets/img/Random_Hotel_-_Kos-Greece-1l9kfMuEK6-9oRRGG84_yX_17_R3wxOa4.jpg', '/Random_Hotel_-_Kos-Greece-1l9kfMuEK6-9oRRGG84_yX_17_R3wxOa4'],
 ['Beach - Kos', 36.9015527777778, 27.2856111111111, 'assets/img/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX.jpg', '/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX'],
 ['Train to Airport', 48.1206194444444, 16.5637472222222, 'assets/img/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk.jpg', '/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk'],
+['Las Vegas - Conference', 36.1239388888889, -115.162588888889, 'assets/img/Las_Vegas_-_Conference-11ApDUyhs1iF5F6hYqNxL-Xh0MvDI1Qlj.jpg', '/Las_Vegas_-_Conference-11ApDUyhs1iF5F6hYqNxL-Xh0MvDI1Qlj'],
 ];

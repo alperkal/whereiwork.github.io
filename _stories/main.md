@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Train to Airport</h1>
-  background: /assets/img/optimised/640/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk.jpg
+  title: <h1>Las Vegas - Conference</h1>
+  background: /assets/img/optimised/640/Las_Vegas_-_Conference-11ApDUyhs1iF5F6hYqNxL-Xh0MvDI1Qlj.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
