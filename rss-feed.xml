@@ -1,7 +1,7 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 	<channel>
 		<title>{{ site.title | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
@@ -13,19 +13,13 @@
 				{% if post.author %}
 					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
 				{% endif %}
-				{% if post.excerpt %}
-					<description>{{ post.excerpt | xml_escape }}</description>
-				{% else %}
-					<description>{{ post.content | xml_escape }}</description>
-				{% endif %}
+				<description>{{ post.title | xml_escape }}{% if post.image %} - &lt;img src="{{ site.github.url }}/{{ post.image }}" alt="{{ post.title | xml_escape }}" /&gt;{% endif %}</description>
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<content:encoded>
-					<a href="{{ site.url }}{{ post.url }}">
-						<img src="{{ post.image }}">
-					</a>
-				</content:encoded>
+				<link>{{ site.github.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.github.url }}{{ post.url }}</guid>
+				{% if post.image %}
+				<content:encoded><![CDATA[<p><a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/{{ post.image }}" alt="{{ post.title }}" style="max-width:100%;" /></a></p>]]></content:encoded>
+				{% endif %}
 			</item>
 		{% endfor %}
 	</channel>
