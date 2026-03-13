@@ -114,5 +114,5 @@ var locations = [
 ['Beach - Kos', 36.9015527777778, 27.2856111111111, 'assets/img/Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX.jpg', '/2025-08-22-Beach_-_Kos-1CixdmvWugPk2nM9_QyKj-J4J-uQs5PRX'],
 ['Train to Airport', 48.1206194444444, 16.5637472222222, 'assets/img/Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk.jpg', '/2025-11-28-Train_to_Airport-1d9c5HVgxltpmQ0oeEEZefBssh1Mn9tjk'],
 ['Las Vegas - Conference', 36.1239388888889, -115.162588888889, 'assets/img/Las_Vegas_-_Conference-11ApDUyhs1iF5F6hYqNxL-Xh0MvDI1Qlj.jpg', '/2025-12-01-Las_Vegas_-_Conference-11ApDUyhs1iF5F6hYqNxL-Xh0MvDI1Qlj'],
-['Bratislava - Train Station', 48.15857222222222, 17.10624166666667, 'assets/img/Bratislava - Train Station.jpg', '/2026-03-11-Bratislava - Train Station'],
+['Bratislava - Train Station', 48.15857222222222, 17.10624166666667, 'assets/img/Bratislava-Train-Station.jpg', '/2026-03-11-Bratislava-Train-Station'],
 ];
