@@ -8,7 +8,7 @@ A Jekyll-based photo blog deployed to GitHub Pages. Each post is a title, a loca
 
 The Python script replaces all the shell scripts with a single command. It resizes the image, extracts EXIF date and GPS coordinates, creates post files, generates responsive images, updates the map data, and creates AMP stories.
 
-#### Setup
+#### Setting up
 
 Create a virtual environment and install dependencies:
 
