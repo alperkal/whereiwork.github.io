@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Bratislava - Train Station</h1>
-  background: /assets/img/optimised/640/Bratislava-Train-Station.jpg
+  title: <h1>Random Hotel - Brussels</h1>
+  background: /assets/img/optimised/640/Random_Hotel_-_Brussels-1UHQvvIUGcWraG-bdHwoNAxxfu7X9PBRy.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
