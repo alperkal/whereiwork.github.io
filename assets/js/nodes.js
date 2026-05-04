@@ -117,4 +117,5 @@ var locations = [
 ['Bratislava - Train Station', 48.15857222222222, 17.10624166666667, 'assets/img/Bratislava-Train-Station.jpg', '/Bratislava-Train-Station'],
 ['Random Hotel - Brussels', 50.8556111111111, 4.36720555555556, 'assets/img/Random_Hotel_-_Brussels-1UHQvvIUGcWraG-bdHwoNAxxfu7X9PBRy.jpg', '/Random_Hotel_-_Brussels-1UHQvvIUGcWraG-bdHwoNAxxfu7X9PBRy'],
 ['Random Hotel - Krems', 48.4086305555556, 15.5832694444444, 'assets/img/Random_Hotel_-_Krems-1KjiGTUl4om_m-p2jpmtWLrnJ9FhOqKHc.jpg', '/Random_Hotel_-_Krems-1KjiGTUl4om_m-p2jpmtWLrnJ9FhOqKHc'],
+['Erste - Polska', 52.2331083333333, 20.9834361111111, 'assets/img/Erste_-_Polska-1yV3VSLcjXYQlXJtALhr8khxm9sBCBFyn.jpg', '/Erste_-_Polska-1yV3VSLcjXYQlXJtALhr8khxm9sBCBFyn'],
 ];
