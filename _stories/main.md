@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Hilton - Warsaw</h1>
-  background: /assets/img/optimised/640/Hilton_-_Warsaw-1yfP8AdzMtHc0xZLr9f1jiZEoHhGxONHQ.jpg
+  title: <h1>Milano - Airport</h1>
+  background: /assets/img/optimised/640/Milano_-_Airport-1fJ7czE141i31yMG6z9yAMdKv30cl_5zy.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
