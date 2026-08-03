@@ -120,4 +120,5 @@ var locations = [
 ['Erste - Polska', 52.2331083333333, 20.9834361111111, 'assets/img/Erste_-_Polska-1yV3VSLcjXYQlXJtALhr8khxm9sBCBFyn.jpg', '/Erste_-_Polska-1yV3VSLcjXYQlXJtALhr8khxm9sBCBFyn'],
 ['Hilton - Warsaw', 52.2336361111111, 20.9860527777778, 'assets/img/Hilton_-_Warsaw-1yfP8AdzMtHc0xZLr9f1jiZEoHhGxONHQ.jpg', '/Hilton_-_Warsaw-1yfP8AdzMtHc0xZLr9f1jiZEoHhGxONHQ'],
 ['Milano - Airport', 45.6662472222222, 9.69755277777778, 'assets/img/Milano_-_Airport-1fJ7czE141i31yMG6z9yAMdKv30cl_5zy.jpg', '/Milano_-_Airport-1fJ7czE141i31yMG6z9yAMdKv30cl_5zy'],
+['Random Building - Rhodes Greece', 36.4431944444444, 28.2254888888889, 'assets/img/Random_Building_-_Rhodes_Greece-187GdFhKBJPFj5qbszTvGoY5QUA8dS-_v.jpg', '/Random_Building_-_Rhodes_Greece-187GdFhKBJPFj5qbszTvGoY5QUA8dS-_v'],
 ];

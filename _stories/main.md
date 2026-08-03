@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Milano - Airport</h1>
-  background: /assets/img/optimised/640/Milano_-_Airport-1fJ7czE141i31yMG6z9yAMdKv30cl_5zy.jpg
+  title: <h1>Random Building - Rhodes Greece</h1>
+  background: /assets/img/optimised/640/Random_Building_-_Rhodes_Greece-187GdFhKBJPFj5qbszTvGoY5QUA8dS-_v.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
