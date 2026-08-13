@@ -2,8 +2,8 @@
 layout: ampstory
 title: whereI.work/today
 cover:
-  title: <h1>Random Hotel - Turunc</h1>
-  background: /assets/img/optimised/640/Random_Hotel_-_Turunc-1QTT6RVAyXfCxrdUV_56ORVg34FHoyCWo.jpg
+  title: <h1>Rhodes - Random Hotel</h1>
+  background: /assets/img/optimised/640/Rhodes_-_Random_Hotel-1-HB3NPOFOBRDs_Xc_S-CGuNsBEfC-W0T.jpg
 pages: 
 - layout: thirds
   top: <h1>Revert Random</h1>
