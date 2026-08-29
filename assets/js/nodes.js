@@ -123,4 +123,5 @@ var locations = [
 ['Random Building - Rhodes Greece', 36.4431944444444, 28.2254888888889, 'assets/img/Random_Building_-_Rhodes_Greece-187GdFhKBJPFj5qbszTvGoY5QUA8dS-_v.jpg', '/Random_Building_-_Rhodes_Greece-187GdFhKBJPFj5qbszTvGoY5QUA8dS-_v'],
 ['Random Hotel - Turunc', 36.7684972222222, 28.2535638888889, 'assets/img/Random_Hotel_-_Turunc-1QTT6RVAyXfCxrdUV_56ORVg34FHoyCWo.jpg', '/Random_Hotel_-_Turunc-1QTT6RVAyXfCxrdUV_56ORVg34FHoyCWo'],
 ['Rhodes - Random Hotel', 36.4525277777778, 28.2198111111111, 'assets/img/Rhodes_-_Random_Hotel-1-HB3NPOFOBRDs_Xc_S-CGuNsBEfC-W0T.jpg', '/Rhodes_-_Random_Hotel-1-HB3NPOFOBRDs_Xc_S-CGuNsBEfC-W0T'],
+['Random Hotel - Austria', , , 'assets/img/Random_Hotel_-_Austria-1TDzWtL2oY8Jq2tU0J9d5lU6p6KReAvSo.jpg', '/Random_Hotel_-_Austria-1TDzWtL2oY8Jq2tU0J9d5lU6p6KReAvSo'],
 ];
