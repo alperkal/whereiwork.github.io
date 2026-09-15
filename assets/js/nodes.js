@@ -125,4 +125,5 @@ var locations = [
 ['Rhodes - Random Hotel', 36.4525277777778, 28.2198111111111, 'assets/img/Rhodes_-_Random_Hotel-1-HB3NPOFOBRDs_Xc_S-CGuNsBEfC-W0T.jpg', '/Rhodes_-_Random_Hotel-1-HB3NPOFOBRDs_Xc_S-CGuNsBEfC-W0T'],
 ['Random Hotel - Austria', , , 'assets/img/Random_Hotel_-_Austria-1TDzWtL2oY8Jq2tU0J9d5lU6p6KReAvSo.jpg', '/Random_Hotel_-_Austria-1TDzWtL2oY8Jq2tU0J9d5lU6p6KReAvSo'],
 ['Poznan - Random Hotel', 52.40675, 16.924425, 'assets/img/Poznan_-_Random_Hotel-1UE2PXbGyxc8-fhp28ss371cZoJDL7ZhX.jpg', '/Poznan_-_Random_Hotel-1UE2PXbGyxc8-fhp28ss371cZoJDL7ZhX'],
+['Erste Polska - Warsaw', 52.2330777777778, 20.9833833333333, 'assets/img/Erste_Polska_-_Warsaw-10u8nQ7gcR60-JBgQKO66QVGDbjrrm3n4.jpg', '/Erste_Polska_-_Warsaw-10u8nQ7gcR60-JBgQKO66QVGDbjrrm3n4'],
 ];
