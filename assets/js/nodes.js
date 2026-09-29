@@ -126,4 +126,5 @@ var locations = [
 ['Random Hotel - Austria', , , 'assets/img/Random_Hotel_-_Austria-1TDzWtL2oY8Jq2tU0J9d5lU6p6KReAvSo.jpg', '/Random_Hotel_-_Austria-1TDzWtL2oY8Jq2tU0J9d5lU6p6KReAvSo'],
 ['Poznan - Random Hotel', 52.40675, 16.924425, 'assets/img/Poznan_-_Random_Hotel-1UE2PXbGyxc8-fhp28ss371cZoJDL7ZhX.jpg', '/Poznan_-_Random_Hotel-1UE2PXbGyxc8-fhp28ss371cZoJDL7ZhX'],
 ['Erste Polska - Warsaw', 52.2330777777778, 20.9833833333333, 'assets/img/Erste_Polska_-_Warsaw-10u8nQ7gcR60-JBgQKO66QVGDbjrrm3n4.jpg', '/Erste_Polska_-_Warsaw-10u8nQ7gcR60-JBgQKO66QVGDbjrrm3n4'],
+['Random Hotel - Izmir', 38.4314416666667, 27.1363666666667, 'assets/img/Random_Hotel_-_Izmir-1N7FOrPA5uyoX4w6PQusqOkziD3qQXuRA.jpg', '/Random_Hotel_-_Izmir-1N7FOrPA5uyoX4w6PQusqOkziD3qQXuRA'],
 ];
