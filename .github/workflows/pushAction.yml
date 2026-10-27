@@ -1,32 +1,51 @@
 name: New Post Flow
 run-name: Where I Work New Post 🚀
-on: 
+on:
   push:
     paths:
       - 'assets/img/*'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   new-post-create:
-    runs-on: self-hosted
-    if: '!contains(github.event.head_commit.message, ''jekyl'')'
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'jekyl')"
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Install image-processing dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            libimage-exiftool-perl \
+            imagemagick \
+            jpegoptim \
+            optipng
+
       - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+
       - id: changedFiles
-        uses: masesgroup/retrieve-changed-files@v2
+        uses: masesgroup/retrieve-changed-files@v3
         with:
           format: 'json'
-      - run: |
-          readarray -t added_files <<<"$(jq -r '.[]' <<<'${{ steps.changedFiles.outputs.added }}')"
+
+      - name: Run newPost.sh for the added image
+        run: |
+          readarray -t added_files <<< "$(jq -r '.[]' <<< '${{ steps.changedFiles.outputs.added }}')"
           echo "Do something with ${added_files[0]} with title ${{ github.event.head_commit.message }}"
           ./newPost.sh "${added_files[0]}" "${{ github.event.head_commit.message }}"
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: "master"
           message: "jekyl update for ${{ github.event.head_commit.message }}"
+
       - name: Push Build Status Notifications
         uses: desiderati/github-action-pushover@v1
         with:
