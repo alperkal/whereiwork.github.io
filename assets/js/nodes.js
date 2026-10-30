@@ -128,4 +128,5 @@ var locations = [
 ['Erste Polska - Warsaw', 52.2330777777778, 20.9833833333333, 'assets/img/Erste_Polska_-_Warsaw-10u8nQ7gcR60-JBgQKO66QVGDbjrrm3n4.jpg', '/Erste_Polska_-_Warsaw-10u8nQ7gcR60-JBgQKO66QVGDbjrrm3n4'],
 ['Random Hotel - Izmir', 38.4314416666667, 27.1363666666667, 'assets/img/Random_Hotel_-_Izmir-1N7FOrPA5uyoX4w6PQusqOkziD3qQXuRA.jpg', '/Random_Hotel_-_Izmir-1N7FOrPA5uyoX4w6PQusqOkziD3qQXuRA'],
 ['Florance - Random Apartment', 43.7712777777778, 11.2593694444444, 'assets/img/Florance_-_Random_Apartment_-18YX0I3l2JXMT-JpABJ0w5MusgzO6E75N.jpg', '/Florance_-_Random_Apartment_-18YX0I3l2JXMT-JpABJ0w5MusgzO6E75N'],
+['Bologna - Random Apartment', 44.4919694444444, 11.3532416666667, 'assets/img/Bologna_-_Random_Apartment-1rJeCe93pGS1rN9OD_6MgJNFcnkZ94lps.jpg', '/Bologna_-_Random_Apartment-1rJeCe93pGS1rN9OD_6MgJNFcnkZ94lps'],
 ];
