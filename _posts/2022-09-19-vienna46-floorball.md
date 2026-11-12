@@ -4,7 +4,7 @@ title: "Vienna - Floorball course"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna46-floorball.jpg
+image: /assets/img/vienna46-floorball.jpg
 amp: true
 location:
   latitude: 48.1893

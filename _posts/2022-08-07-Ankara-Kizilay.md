@@ -4,7 +4,7 @@ title: "Ankara - Turkey"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/Ankara-Kizilay.jpg
+image: /assets/img/Ankara-Kizilay.jpg
 amp: true
 location:
   latitude: 39.9224555555556

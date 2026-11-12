@@ -4,7 +4,7 @@ title: "Vienna - Westbahnhof"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/Vienna28-westbahnhof.jpg
+image: /assets/img/Vienna28-westbahnhof.jpg
 amp: true
 location:
   latitude: 48.1953861111111

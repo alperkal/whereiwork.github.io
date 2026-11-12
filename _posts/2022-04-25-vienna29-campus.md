@@ -4,7 +4,7 @@ title: "Vienna - Erste Campus"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna29-campus.jpg
+image: /assets/img/vienna29-campus.jpg
 amp: true
 location:
   latitude: 48.187725

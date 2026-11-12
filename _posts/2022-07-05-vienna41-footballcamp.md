@@ -4,7 +4,7 @@ title: "Vienna - Football Camp"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna41-footballcamp.jpg
+image: /assets/img/vienna41-footballcamp.jpg
 amp: true
 location:
   latitude: 48.2244833333333

@@ -1,11 +1,4 @@
 <head>
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} | {{ site.description }}
-    {% else %}
-      {{ page.title }} | {{ site.title }}
-    {% endif %}
-  </title>
   {% if page.amp %}
   <link rel="amphtml" href="{{site.url}}{{site.baseurl}}/amp{{ page.url }}">
   {% endif %}
@@ -28,8 +21,25 @@
   {% include posthog.html %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
-  {% if page.layout == "home" %}
-  <meta property="twitter:image" content="{{site.url}}{{site.baseurl}}/{{ site.logo }}" />
+  {% if page.layout == 'post' and page.image and page.location.latitude and page.location.longitude %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ImageObject",
+    "contentUrl": {{ page.image | absolute_url | jsonify }},
+    "name": {{ page.title | jsonify }},
+    "creator": { "@type": "Person", "name": {{ site.author | jsonify }} },
+    "datePublished": {{ page.date | date: '%Y-%m-%d' | jsonify }},
+    "contentLocation": {
+      "@type": "Place",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": {{ page.location.latitude | jsonify }},
+        "longitude": {{ page.location.longitude | jsonify }}
+      }
+    }
+  }
+  </script>
   {% endif %}
   {% if page.location.latitude %}
   <meta property="twitter:label1" content="Visit on Google Maps"/>

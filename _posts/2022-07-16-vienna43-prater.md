@@ -4,7 +4,7 @@ title: "Vienna - Prater"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna43-prater.jpg
+image: /assets/img/vienna43-prater.jpg
 amp: true
 location:
   latitude: 48.2040888888889

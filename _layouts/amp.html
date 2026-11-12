@@ -3,7 +3,7 @@
 
 <head>
     <title>{{page.title}}</title>
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <link rel="canonical" href="{{ page.url | remove_first: '/amp' | absolute_url }}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
 
@@ -19,27 +19,15 @@
         type="module" crossorigin="anonymous"></script>
     <script async nomodule src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" crossorigin="anonymous"
         custom-element="amp-social-share"></script>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
-
     <script type="application/ld+json">{
-          "@context": "{{ site.github.url }}",
-          "@type": "BlogPosting",
-          "url": "{{ site.github.url }}",
-          "image": "{{ site.baseurl }}/{{ page.image }}",  
-          "articleBody": "{{ page.title }}",
-          "datePublished": "{{ page.date }}",
-          "author": {
-            "@type": "Person",
-            "sameAs": "https://github.com/kul3r4",
-            "name": "{{ site.author }}"
-          },
-          "image": {
-            "@type": "ImageObject",
-            "url": "{{ site.baseurl }}/{{ page.image }}"
-          },
-          "headline": "An AMP Live Blog",
-          "description": "A Live Blog implementation with AMP"
-        }</script>
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "url": {{ page.url | remove_first: '/amp' | absolute_url | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+      "author": { "@type": "Person", "name": {{ site.author | jsonify }} },
+      "image": {{ page.image | prepend: '/assets/img/' | absolute_url | jsonify }}
+    }</script>
     <style amp-custom>
         :root {
             --color-primary: #005af0;

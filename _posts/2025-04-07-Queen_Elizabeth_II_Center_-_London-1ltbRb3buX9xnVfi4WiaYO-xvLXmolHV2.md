@@ -4,7 +4,7 @@ title: "Queen Elizabeth II Center - London"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/Queen_Elizabeth_II_Center_-_London-1ltbRb3buX9xnVfi4WiaYO-xvLXmolHV2.jpg
+image: /assets/img/Queen_Elizabeth_II_Center_-_London-1ltbRb3buX9xnVfi4WiaYO-xvLXmolHV2.jpg
 amp: true
 location:
   latitude: 51.4999694444444

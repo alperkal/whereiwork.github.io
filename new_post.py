@@ -124,7 +124,7 @@ title: "{title}"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/{name}.jpg
+image: /assets/img/{name}.jpg
 amp: true
 location:
   latitude: {latitude}

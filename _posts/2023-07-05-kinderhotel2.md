@@ -4,7 +4,7 @@ title: "Donnersbachwald"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/kinderhotel2.jpg
+image: /assets/img/kinderhotel2.jpg
 amp: true
 location:
   latitude: 47.3848027777778

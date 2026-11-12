@@ -4,7 +4,7 @@ title: "Vienna - Airport"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna55-airport.jpg
+image: /assets/img/vienna55-airport.jpg
 amp: true
 location:
   latitude: 48.11995

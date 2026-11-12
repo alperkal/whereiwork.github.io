@@ -4,7 +4,7 @@ title: "Vienna - Auhof Center"
 author: "Alper Kalaycioglu"
 categories: whereiwork
 tags: [documentation]
-image: assets/img/vienna51-Auhof-center.jpg
+image: /assets/img/vienna51-Auhof-center.jpg
 amp: true
 location:
   latitude: 48.2080222222222
