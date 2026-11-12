@@ -1,3 +1,5 @@
+@use "theme" as *;
+
 @mixin social-media-icon($color, $transition){
   -webkit-transition: $transition;
   -o-transition: $transition;
